@@ -1,280 +1,184 @@
 [
   {
-    "timestamp": "2025-07-11T15:02:24.298681",
+    "timestamp": "2025-07-11T15:38:06.589990",
     "type": "mouse_click",
     "button": "Button.left",
     "position": {
-      "x": 1637,
-      "y": 1560
+      "x": 977,
+      "y": 812
     }
   },
   {
-    "timestamp": "2025-07-11T15:02:24.818549",
-    "type": "mouse_click",
-    "button": "Button.left",
-    "position": {
-      "x": 1336,
-      "y": 867
-    }
-  },
-  {
-    "timestamp": "2025-07-11T15:02:25.779737",
-    "type": "key_press",
-    "key": "Key.enter"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:26.186751",
-    "type": "key_press",
-    "key": "t"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:26.286179",
-    "type": "key_press",
-    "key": "h"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:26.410715",
-    "type": "key_press",
-    "key": "i"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:26.506869",
-    "type": "key_press",
-    "key": "s"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:26.577920",
-    "type": "key_press",
-    "key": "Key.space"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:26.714989",
-    "type": "key_press",
-    "key": "i"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:26.761367",
-    "type": "key_press",
-    "key": "s"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:26.879252",
-    "type": "key_press",
-    "key": "Key.space"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:26.992480",
-    "type": "key_press",
-    "key": "a"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:27.135990",
-    "type": "key_press",
-    "key": "Key.space"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:27.391976",
-    "type": "key_press",
-    "key": "t"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:27.451187",
-    "type": "key_press",
-    "key": "e"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:27.699184",
-    "type": "key_press",
-    "key": "s"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:27.891451",
-    "type": "key_press",
-    "key": "t"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:28.455219",
-    "type": "key_press",
-    "key": "Key.enter"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:28.648694",
-    "type": "key_press",
-    "key": "t"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:29.349649",
-    "type": "key_press",
-    "key": "Key.backspace"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:30.110746",
-    "type": "key_press",
-    "key": "b"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:30.176086",
-    "type": "key_press",
-    "key": "a"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:30.261316",
-    "type": "key_press",
-    "key": "d"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:30.420843",
-    "type": "key_press",
-    "key": "r"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:30.524058",
-    "type": "key_press",
-    "key": "i"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:32.747137",
-    "type": "mouse_click",
-    "button": "Button.left",
-    "position": {
-      "x": 2481,
-      "y": 1058
-    }
-  },
-  {
-    "timestamp": "2025-07-11T15:02:33.643091",
-    "type": "mouse_click",
-    "button": "Button.left",
-    "position": {
-      "x": 1948,
-      "y": 1585
-    }
-  },
-  {
-    "timestamp": "2025-07-11T15:02:34.139215",
-    "type": "mouse_click",
-    "button": "Button.left",
-    "position": {
-      "x": 889,
-      "y": 922
-    }
-  },
-  {
-    "timestamp": "2025-07-11T15:02:34.360109",
+    "timestamp": "2025-07-11T15:38:07.498064",
     "type": "key_press",
     "key": "q"
   },
   {
-    "timestamp": "2025-07-11T15:02:42.194881",
+    "timestamp": "2025-07-11T15:38:08.873406",
     "type": "mouse_click",
     "button": "Button.left",
     "position": {
-      "x": 1718,
-      "y": 1565
+      "x": 1218,
+      "y": 1326
     }
   },
   {
-    "timestamp": "2025-07-11T15:02:42.762197",
+    "timestamp": "2025-07-11T15:38:12.382713",
     "type": "mouse_click",
     "button": "Button.left",
     "position": {
-      "x": 1656,
-      "y": 1184
+      "x": 1261,
+      "y": 460
     }
   },
   {
-    "timestamp": "2025-07-11T15:02:43.455006",
+    "timestamp": "2025-07-11T15:38:14.066742",
     "type": "key_press",
-    "key": "Key.enter"
+    "key": "."
   },
   {
-    "timestamp": "2025-07-11T15:02:43.620953",
+    "timestamp": "2025-07-11T15:38:14.388538",
+    "type": "key_press",
+    "key": "Key.space"
+  },
+  {
+    "timestamp": "2025-07-11T15:38:14.547201",
+    "type": "key_press",
+    "key": "Key.shift_r"
+  },
+  {
+    "timestamp": "2025-07-11T15:38:14.812693",
+    "type": "key_press",
+    "key": "("
+  },
+  {
+    "timestamp": "2025-07-11T15:38:14.899255",
+    "type": "key_press",
+    "key": "Key.caps_lock"
+  },
+  {
+    "timestamp": "2025-07-11T15:38:15.094822",
+    "type": "key_press",
+    "key": "t"
+  },
+  {
+    "timestamp": "2025-07-11T15:38:15.183151",
+    "type": "key_press",
+    "key": "h"
+  },
+  {
+    "timestamp": "2025-07-11T15:38:15.420062",
+    "type": "key_press",
+    "key": "s"
+  },
+  {
+    "timestamp": "2025-07-11T15:38:16.105579",
+    "type": "key_press",
+    "key": "Key.backspace"
+  },
+  {
+    "timestamp": "2025-07-11T15:38:16.298219",
+    "type": "key_press",
+    "key": "i"
+  },
+  {
+    "timestamp": "2025-07-11T15:38:16.408057",
+    "type": "key_press",
+    "key": "s"
+  },
+  {
+    "timestamp": "2025-07-11T15:38:16.492615",
+    "type": "key_press",
+    "key": "Key.space"
+  },
+  {
+    "timestamp": "2025-07-11T15:38:16.601537",
     "type": "key_press",
     "key": "w"
   },
   {
-    "timestamp": "2025-07-11T15:02:43.821562",
+    "timestamp": "2025-07-11T15:38:16.665474",
     "type": "key_press",
-    "key": "h"
+    "key": "o"
   },
   {
-    "timestamp": "2025-07-11T15:02:44.394967",
-    "type": "key_press",
-    "key": "Key.backspace"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:44.550124",
-    "type": "key_press",
-    "key": "Key.backspace"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:44.735903",
-    "type": "key_press",
-    "key": "i"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:44.887649",
-    "type": "key_press",
-    "key": "Key.space"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:45.094130",
-    "type": "key_press",
-    "key": "p"
-  },
-  {
-    "timestamp": "2025-07-11T15:02:45.229156",
+    "timestamp": "2025-07-11T15:38:16.806628",
     "type": "key_press",
     "key": "r"
   },
   {
-    "timestamp": "2025-07-11T15:02:45.290959",
+    "timestamp": "2025-07-11T15:38:16.907259",
     "type": "key_press",
-    "key": "e"
+    "key": "k"
   },
   {
-    "timestamp": "2025-07-11T15:02:45.472321",
+    "timestamp": "2025-07-11T15:38:17.047604",
     "type": "key_press",
     "key": "s"
   },
   {
-    "timestamp": "2025-07-11T15:02:45.616395",
+    "timestamp": "2025-07-11T15:38:17.369874",
     "type": "key_press",
-    "key": "s"
+    "key": "Key.ctrl_l"
   },
   {
-    "timestamp": "2025-07-11T15:02:45.767025",
+    "timestamp": "2025-07-11T15:38:17.753133",
     "type": "key_press",
-    "key": "e"
+    "key": "\u0013"
   },
   {
-    "timestamp": "2025-07-11T15:02:45.890936",
-    "type": "key_press",
-    "key": "d"
+    "timestamp": "2025-07-11T15:38:25.957663",
+    "type": "mouse_click",
+    "button": "Button.left",
+    "position": {
+      "x": 1051,
+      "y": 101
+    }
   },
   {
-    "timestamp": "2025-07-11T15:02:46.043794",
-    "type": "key_press",
-    "key": "Key.space"
+    "timestamp": "2025-07-11T15:38:28.509886",
+    "type": "mouse_click",
+    "button": "Button.left",
+    "position": {
+      "x": 695,
+      "y": 709
+    }
   },
   {
-    "timestamp": "2025-07-11T15:02:46.352517",
-    "type": "key_press",
-    "key": "q"
+    "timestamp": "2025-07-11T15:38:30.069914",
+    "type": "mouse_click",
+    "button": "Button.left",
+    "position": {
+      "x": 1581,
+      "y": 644
+    }
   },
   {
-    "timestamp": "2025-07-11T15:02:47.640284",
+    "timestamp": "2025-07-11T15:38:31.897032",
     "type": "key_press",
-    "key": "Key.enter"
+    "key": "Key.ctrl_l"
   },
   {
-    "timestamp": "2025-07-11T15:02:48.368788",
+    "timestamp": "2025-07-11T15:38:32.010554",
     "type": "key_press",
-    "key": "Key.alt_l"
+    "key": "\u0018"
   },
   {
-    "timestamp": "2025-07-11T15:02:48.450960",
-    "type": "key_press",
-    "key": "Key.tab"
+    "timestamp": "2025-07-11T15:38:33.397764",
+    "type": "mouse_click",
+    "button": "Button.left",
+    "position": {
+      "x": 1533,
+      "y": 382
+    }
+  },
+  {
+    "timestamp": "2025-07-11T15:38:33.662570",
+    "type": "mouse_click",
+    "button": "Button.left",
+    "position": {
+      "x": 1557,
+      "y": 413
+    }
   }
 ]

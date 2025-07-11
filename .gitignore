@@ -209,5 +209,4 @@ __marimo__/
 # UXTracker
 Issues_faced.md
 tasks.md
-.\examples\*.py
-./examples/*.py
+/examples/**/*.py
