@@ -210,3 +210,9 @@ __marimo__/
 Issues_faced.md
 tasks.md
 /examples/**/*.py
+
+# DS_Store
+.DS_Store
+
+# Data directories
+video_frames/
