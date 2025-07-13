@@ -1,0 +1,2972 @@
+[
+  {
+    "file": "webcam_000000.jpg",
+    "yaw": null,
+    "pitch": null,
+    "sector": null,
+    "iris_sector": null,
+    "head_sector": null,
+    "engaged": false
+  },
+  {
+    "file": "webcam_000001.jpg",
+    "yaw": -4.231435353699742,
+    "pitch": -4.985612199212212,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000002.jpg",
+    "yaw": -4.271640934695161,
+    "pitch": -5.852712101569698,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000003.jpg",
+    "yaw": -3.844100417002198,
+    "pitch": -6.191335804077564,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000004.jpg",
+    "yaw": -3.516882634033279,
+    "pitch": -6.218311165406944,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000005.jpg",
+    "yaw": -3.891089762299937,
+    "pitch": -5.43542941161226,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000006.jpg",
+    "yaw": -3.3408360395432313,
+    "pitch": -5.569459490992078,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000007.jpg",
+    "yaw": -3.3147948404014396,
+    "pitch": -5.133825965066833,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000008.jpg",
+    "yaw": -3.6750388625114128,
+    "pitch": -5.395339911684461,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000009.jpg",
+    "yaw": -3.490210544941816,
+    "pitch": -5.755891676360062,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000010.jpg",
+    "yaw": -6.657853340566674,
+    "pitch": -5.919955673630881,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000011.jpg",
+    "yaw": -5.7394856086006145,
+    "pitch": -5.977038824648359,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000012.jpg",
+    "yaw": -5.514540855782226,
+    "pitch": -5.883494514524771,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000013.jpg",
+    "yaw": -5.36860759295167,
+    "pitch": -6.033630894713457,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000014.jpg",
+    "yaw": -5.1547196954645305,
+    "pitch": -6.49877856269766,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000015.jpg",
+    "yaw": -4.649021019193511,
+    "pitch": -6.486807954423824,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000016.jpg",
+    "yaw": -4.818932592693023,
+    "pitch": -5.882201853016001,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000017.jpg",
+    "yaw": -4.609637681154526,
+    "pitch": -5.312710538007971,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000018.jpg",
+    "yaw": -5.567996810886324,
+    "pitch": -5.534620766116476,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000019.jpg",
+    "yaw": -4.712475106595608,
+    "pitch": -6.252883290428623,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000020.jpg",
+    "yaw": -4.918095380872022,
+    "pitch": -5.804346901092174,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000021.jpg",
+    "yaw": -4.900348471637229,
+    "pitch": -5.612916130801571,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000022.jpg",
+    "yaw": -5.045418023665299,
+    "pitch": -5.52268630837884,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000023.jpg",
+    "yaw": -4.738812330378303,
+    "pitch": -5.371345507762005,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000024.jpg",
+    "yaw": -4.7967465345640115,
+    "pitch": -5.58206140238918,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000025.jpg",
+    "yaw": -5.394149056118556,
+    "pitch": -5.238844350516664,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000026.jpg",
+    "yaw": -5.499076593512827,
+    "pitch": -5.489550705498554,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000027.jpg",
+    "yaw": -5.899429659836733,
+    "pitch": -5.42006101024371,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000028.jpg",
+    "yaw": -6.121836095978804,
+    "pitch": -5.243224421865305,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000029.jpg",
+    "yaw": -5.960365131379403,
+    "pitch": -5.510312798744284,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000030.jpg",
+    "yaw": -6.389865419274231,
+    "pitch": -5.200510984550341,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000031.jpg",
+    "yaw": -6.606125512459444,
+    "pitch": -5.004900945073387,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000032.jpg",
+    "yaw": -7.127940761223931,
+    "pitch": -4.87972845472015,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000033.jpg",
+    "yaw": -7.21201625377396,
+    "pitch": -5.131430699692204,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000034.jpg",
+    "yaw": -6.840495518120571,
+    "pitch": -4.682611045049501,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000035.jpg",
+    "yaw": -6.805477991352207,
+    "pitch": -4.347847706881186,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000036.jpg",
+    "yaw": -6.0915786526972,
+    "pitch": -4.153589674870354,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000037.jpg",
+    "yaw": -6.343176628561666,
+    "pitch": -3.8527772427483282,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000038.jpg",
+    "yaw": -5.985371320599323,
+    "pitch": -3.5285868395784297,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000039.jpg",
+    "yaw": -5.8143894638917955,
+    "pitch": -3.7675399790601736,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000040.jpg",
+    "yaw": -5.969558464465435,
+    "pitch": -3.5109278954362004,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000041.jpg",
+    "yaw": -5.902497382846633,
+    "pitch": -3.4768037313474514,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000042.jpg",
+    "yaw": -7.624154880114929,
+    "pitch": -3.467094142754853,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000043.jpg",
+    "yaw": -5.964679702175629,
+    "pitch": -3.0068671451555398,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000044.jpg",
+    "yaw": -3.4567117773640748,
+    "pitch": -3.076237836929291,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000045.jpg",
+    "yaw": -2.3932139600821727,
+    "pitch": -3.3225293186712896,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000046.jpg",
+    "yaw": -3.2288449655854015,
+    "pitch": -2.6000526315204775,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000047.jpg",
+    "yaw": -3.1682863658136515,
+    "pitch": -2.459543499695129,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000048.jpg",
+    "yaw": -4.100154057543173,
+    "pitch": -2.3106221112803147,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000049.jpg",
+    "yaw": -4.204681822049643,
+    "pitch": -2.0876860502961354,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000050.jpg",
+    "yaw": -3.6483208163638303,
+    "pitch": -1.7313735671994575,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000051.jpg",
+    "yaw": -2.972400342773221,
+    "pitch": -1.7011956694569625,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000052.jpg",
+    "yaw": -2.2548950545534256,
+    "pitch": -1.6278533739371577,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000053.jpg",
+    "yaw": -2.085892654009745,
+    "pitch": -1.2478676367694936,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000054.jpg",
+    "yaw": -1.1188168835366972,
+    "pitch": -0.30470082624544753,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000055.jpg",
+    "yaw": -0.6606771146882919,
+    "pitch": 0.10987888649952951,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000056.jpg",
+    "yaw": 0.08767882056630971,
+    "pitch": 0.3302923108849456,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000057.jpg",
+    "yaw": -2.6284884320834627,
+    "pitch": 0.24069586756525266,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000058.jpg",
+    "yaw": -2.1790870235057094,
+    "pitch": 0.4696816465199441,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000059.jpg",
+    "yaw": -1.3660858077374864,
+    "pitch": 0.1075613392648544,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000060.jpg",
+    "yaw": -0.5800315552888514,
+    "pitch": -0.579275486507136,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000061.jpg",
+    "yaw": -0.5614982229851011,
+    "pitch": -0.9061082138436758,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000062.jpg",
+    "yaw": 0.04705896474300749,
+    "pitch": -0.6830306173252297,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000063.jpg",
+    "yaw": 0.041844296107015705,
+    "pitch": -0.6963994269648696,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000064.jpg",
+    "yaw": -0.02219026451775333,
+    "pitch": -0.07967374651620913,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000065.jpg",
+    "yaw": -0.10013713642964978,
+    "pitch": 0.44943270033110766,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000066.jpg",
+    "yaw": 0.05808955363202098,
+    "pitch": 1.4104386574448584,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000067.jpg",
+    "yaw": 0.8764751270423128,
+    "pitch": 1.2434035753605777,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000068.jpg",
+    "yaw": -0.2600673712687954,
+    "pitch": 1.2716023010563289,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000069.jpg",
+    "yaw": 1.1778049555679693,
+    "pitch": 1.0245644803538096,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000070.jpg",
+    "yaw": 0.9743925441203003,
+    "pitch": 1.6487254904038242,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000071.jpg",
+    "yaw": 0.6487805768179022,
+    "pitch": 1.2248391872719908,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000072.jpg",
+    "yaw": 0.3447404509954884,
+    "pitch": 1.1972862346148692,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000073.jpg",
+    "yaw": 0.5694425644627829,
+    "pitch": 1.0399653532999207,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000074.jpg",
+    "yaw": 0.2148743883782445,
+    "pitch": 0.8160683074087454,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000075.jpg",
+    "yaw": 1.3246259937647589,
+    "pitch": 0.38952769196508924,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000076.jpg",
+    "yaw": 0.7335470073225798,
+    "pitch": 0.41895190814221517,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000077.jpg",
+    "yaw": 0.7818112261538784,
+    "pitch": 0.14087074107564454,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000078.jpg",
+    "yaw": 0.11394224052848459,
+    "pitch": 0.5940134277459123,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000079.jpg",
+    "yaw": 0.26180887818987375,
+    "pitch": -0.10277004386285214,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000080.jpg",
+    "yaw": 0.4856240312251502,
+    "pitch": -0.6196715241114579,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000081.jpg",
+    "yaw": 0.6162426725428731,
+    "pitch": -0.5168908699713722,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000082.jpg",
+    "yaw": 0.5847426971661855,
+    "pitch": -0.328164398778973,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000083.jpg",
+    "yaw": 0.22326257268787056,
+    "pitch": -0.4416519129245266,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000084.jpg",
+    "yaw": 0.4660565018474977,
+    "pitch": -0.4221350739576431,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000085.jpg",
+    "yaw": 0.37707724128493575,
+    "pitch": -0.6865507974807963,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000086.jpg",
+    "yaw": 0.9336118333849909,
+    "pitch": -0.963892143079667,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000087.jpg",
+    "yaw": 0.4242527806431039,
+    "pitch": -0.529889212869452,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000088.jpg",
+    "yaw": 0.38378062986769224,
+    "pitch": -0.6550206608039871,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000089.jpg",
+    "yaw": 0.5919887579756764,
+    "pitch": -0.7308760353479851,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000090.jpg",
+    "yaw": 0.25222016858095847,
+    "pitch": -0.48443867745400954,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000091.jpg",
+    "yaw": 1.1931780034507995,
+    "pitch": -0.5925704741088279,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000092.jpg",
+    "yaw": 0.6832052385296191,
+    "pitch": -0.5644548474844927,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000093.jpg",
+    "yaw": 0.39609357633938785,
+    "pitch": -0.6794812956409259,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000094.jpg",
+    "yaw": 1.091962341924821,
+    "pitch": -1.3530766985441753,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000095.jpg",
+    "yaw": 0.0010618766104216048,
+    "pitch": -0.8095173550613001,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000096.jpg",
+    "yaw": -0.412339679708707,
+    "pitch": -0.9513460619774678,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000097.jpg",
+    "yaw": -0.005436900750135387,
+    "pitch": -0.803056631235998,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000098.jpg",
+    "yaw": -0.2910850849375319,
+    "pitch": -0.876763260390674,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000099.jpg",
+    "yaw": -0.1632767165384418,
+    "pitch": -0.939028062969962,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000100.jpg",
+    "yaw": -0.27496001807986264,
+    "pitch": -1.1244585797609616,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000101.jpg",
+    "yaw": -0.22304846446027685,
+    "pitch": -1.1993509094013923,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000102.jpg",
+    "yaw": -0.3385965674048196,
+    "pitch": -0.7120878210437878,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000103.jpg",
+    "yaw": 0.8946998996457942,
+    "pitch": -0.5837939462616333,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000104.jpg",
+    "yaw": -0.3447573153359733,
+    "pitch": -0.8157007943526936,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000105.jpg",
+    "yaw": -0.19417713336581338,
+    "pitch": -0.6594462653729887,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000106.jpg",
+    "yaw": -0.07003059747282114,
+    "pitch": -0.6062927893464616,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000107.jpg",
+    "yaw": 0.025976840498085695,
+    "pitch": -0.6293311089877164,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000108.jpg",
+    "yaw": -0.10574751577840813,
+    "pitch": -0.5340139310698971,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000109.jpg",
+    "yaw": -0.47553346127932183,
+    "pitch": -0.542179051278246,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000110.jpg",
+    "yaw": -0.6987725748566427,
+    "pitch": -0.6426507399576564,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000111.jpg",
+    "yaw": -0.5861089991721631,
+    "pitch": -0.6415736282599661,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000112.jpg",
+    "yaw": -0.3002370932230431,
+    "pitch": -0.8287457377872275,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000113.jpg",
+    "yaw": -0.1630042448348487,
+    "pitch": -0.30915120447258193,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000114.jpg",
+    "yaw": -0.40532270638805046,
+    "pitch": -0.49815927925632475,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000115.jpg",
+    "yaw": -0.31089990225578024,
+    "pitch": -0.46557455484071086,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000116.jpg",
+    "yaw": -0.554632615739193,
+    "pitch": -0.698872671675894,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000117.jpg",
+    "yaw": -0.26466145061929436,
+    "pitch": -0.8836331909024076,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000118.jpg",
+    "yaw": -0.6708263644309935,
+    "pitch": -0.921003468511421,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000119.jpg",
+    "yaw": -0.4562739814168229,
+    "pitch": -0.8905041575115692,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000120.jpg",
+    "yaw": -0.6883057219119941,
+    "pitch": -1.051157395379708,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000121.jpg",
+    "yaw": -0.7077331217459042,
+    "pitch": -0.444714517444828,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000122.jpg",
+    "yaw": -1.0111232254589686,
+    "pitch": -0.11799745851536189,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000123.jpg",
+    "yaw": -0.7585323825145547,
+    "pitch": -0.28920553691314677,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000124.jpg",
+    "yaw": -0.6438073343264195,
+    "pitch": -0.1686840273716153,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000125.jpg",
+    "yaw": -0.8806684126286622,
+    "pitch": -0.16446250524966952,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000126.jpg",
+    "yaw": -0.620172923724933,
+    "pitch": -0.19889868778417358,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000127.jpg",
+    "yaw": -0.5007860409426985,
+    "pitch": -0.40970761829985675,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000128.jpg",
+    "yaw": -0.5258309784020865,
+    "pitch": -0.13258753972197346,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000129.jpg",
+    "yaw": -0.711013110041078,
+    "pitch": 0.02908991699256015,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000130.jpg",
+    "yaw": -0.6478948724153593,
+    "pitch": 0.01919425265773401,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000131.jpg",
+    "yaw": -0.38533216710911644,
+    "pitch": -0.23992406305652425,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000132.jpg",
+    "yaw": -0.4127090201085953,
+    "pitch": 0.18745188222437634,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000133.jpg",
+    "yaw": -0.6305942673190398,
+    "pitch": 0.02912832440302997,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000134.jpg",
+    "yaw": -0.13343742193000252,
+    "pitch": -0.15451938949260696,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000135.jpg",
+    "yaw": 0.22217694048602943,
+    "pitch": 0.23860093107957797,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000136.jpg",
+    "yaw": -0.1343259469885175,
+    "pitch": 0.015806063455210025,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000137.jpg",
+    "yaw": -0.15990759232181895,
+    "pitch": 0.02403256548259157,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000138.jpg",
+    "yaw": -0.2303701513181446,
+    "pitch": 0.0760084642511176,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000139.jpg",
+    "yaw": -0.596130915778723,
+    "pitch": 0.30310784525759843,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000140.jpg",
+    "yaw": -0.5089729087494529,
+    "pitch": 0.23032615522285882,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000141.jpg",
+    "yaw": -0.13717796481671624,
+    "pitch": -0.18161284202101802,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000142.jpg",
+    "yaw": 0.19616320425060915,
+    "pitch": -0.007056432795263971,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000143.jpg",
+    "yaw": -0.07803237911820322,
+    "pitch": -0.0492224994425526,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000144.jpg",
+    "yaw": -0.22313074332983612,
+    "pitch": 0.058348838711004,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000145.jpg",
+    "yaw": -0.4424312461821102,
+    "pitch": 0.1763913666285514,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000146.jpg",
+    "yaw": -0.3685694665606689,
+    "pitch": -0.044151544140043346,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000147.jpg",
+    "yaw": -0.09840152991039526,
+    "pitch": 0.029233596757487573,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000148.jpg",
+    "yaw": -0.3882812430492426,
+    "pitch": -0.2409146078399425,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000149.jpg",
+    "yaw": -0.01418447732421995,
+    "pitch": -0.22678285245847082,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000150.jpg",
+    "yaw": 0.08149844148979844,
+    "pitch": -0.36820912987477084,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000151.jpg",
+    "yaw": -0.08470753950452653,
+    "pitch": -0.45604362618425054,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000152.jpg",
+    "yaw": -0.15357234994077956,
+    "pitch": -0.13594076384236478,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000153.jpg",
+    "yaw": -0.1517757220814143,
+    "pitch": 0.11800724062885441,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000154.jpg",
+    "yaw": -0.14401946045574512,
+    "pitch": 0.014297167250673653,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000155.jpg",
+    "yaw": -0.18884784647783526,
+    "pitch": -0.18546955687095487,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000156.jpg",
+    "yaw": 0.45521288124438997,
+    "pitch": -0.19895757295044023,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000157.jpg",
+    "yaw": 0.3277300395556313,
+    "pitch": -0.18319403939764367,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000158.jpg",
+    "yaw": -0.0160928045686002,
+    "pitch": -0.06485474755258452,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000159.jpg",
+    "yaw": -0.17417093820887336,
+    "pitch": 0.023416477477468074,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000160.jpg",
+    "yaw": -0.6145504294067246,
+    "pitch": -0.003427739941683172,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000161.jpg",
+    "yaw": -0.8970182730882768,
+    "pitch": -0.07988581334181302,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000162.jpg",
+    "yaw": -1.2639807626073516,
+    "pitch": -0.1889853058835153,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000163.jpg",
+    "yaw": -0.944923531166931,
+    "pitch": -0.20521120692975647,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000164.jpg",
+    "yaw": -1.1134447976614321,
+    "pitch": -0.1142309849433195,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000165.jpg",
+    "yaw": -0.57462126639268,
+    "pitch": -0.32251667253871635,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000166.jpg",
+    "yaw": -1.1552822690149356,
+    "pitch": -0.5320497316644355,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000167.jpg",
+    "yaw": -0.6258555191544919,
+    "pitch": -0.31673075022556746,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000168.jpg",
+    "yaw": -0.5793036532045346,
+    "pitch": -0.5448164720092952,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000169.jpg",
+    "yaw": -0.709159704406404,
+    "pitch": -0.4077182856638443,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000170.jpg",
+    "yaw": -0.5552031679469254,
+    "pitch": -0.4833493806694898,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000171.jpg",
+    "yaw": -0.8586249911398147,
+    "pitch": -0.468241254194191,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000172.jpg",
+    "yaw": -0.8190064718808698,
+    "pitch": -0.23992725278176041,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000173.jpg",
+    "yaw": -0.39640452492519807,
+    "pitch": -0.28850646769038196,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000174.jpg",
+    "yaw": -0.37494037838099564,
+    "pitch": 0.041737631201466924,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000175.jpg",
+    "yaw": -0.1701678097094375,
+    "pitch": 0.022447524154243823,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000176.jpg",
+    "yaw": 0.13754895678072163,
+    "pitch": -0.1735576247098107,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000177.jpg",
+    "yaw": 0.2986190482695952,
+    "pitch": -0.30239313976374343,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000178.jpg",
+    "yaw": -0.046392421716688115,
+    "pitch": -0.35848122248463776,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000179.jpg",
+    "yaw": 0.002150755744559321,
+    "pitch": -0.3420452801162184,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000180.jpg",
+    "yaw": -0.15370820778245542,
+    "pitch": -0.526895336081766,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000181.jpg",
+    "yaw": 0.05422010848770518,
+    "pitch": -0.5220599925261714,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000182.jpg",
+    "yaw": -0.1666903975711589,
+    "pitch": -0.1644567270749708,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000183.jpg",
+    "yaw": 0.0030301848463912605,
+    "pitch": -0.10683044032549376,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000184.jpg",
+    "yaw": 0.020183194625163388,
+    "pitch": -0.38747365162628133,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000185.jpg",
+    "yaw": -0.1623214210503952,
+    "pitch": -0.8905058116057153,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000186.jpg",
+    "yaw": -0.5030470106234523,
+    "pitch": -0.7690005122002482,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000187.jpg",
+    "yaw": -0.618768277834302,
+    "pitch": -1.0181053223688847,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000188.jpg",
+    "yaw": 0.010079408220363337,
+    "pitch": -0.18539994635415216,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000189.jpg",
+    "yaw": -0.22901090355309175,
+    "pitch": -0.612087694805777,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000190.jpg",
+    "yaw": -0.6596995504930597,
+    "pitch": -0.5842032142815542,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000191.jpg",
+    "yaw": -0.954166203621506,
+    "pitch": -0.2929774864668683,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000192.jpg",
+    "yaw": -1.7535874371547153,
+    "pitch": -0.16410041600067596,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000193.jpg",
+    "yaw": -1.866360125082716,
+    "pitch": -0.13191604969155019,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000194.jpg",
+    "yaw": -1.0769762780832655,
+    "pitch": -1.0368028159417184,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000195.jpg",
+    "yaw": -0.29565355458561027,
+    "pitch": -1.0117973606349766,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000196.jpg",
+    "yaw": -1.4277303628225924,
+    "pitch": 0.4541328700339696,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000197.jpg",
+    "yaw": -0.8203843675708289,
+    "pitch": -0.024991080526539467,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000198.jpg",
+    "yaw": 0.39398332642583656,
+    "pitch": -0.9209940354541266,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000199.jpg",
+    "yaw": 1.2833631844422417,
+    "pitch": -0.6574714425971461,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000200.jpg",
+    "yaw": 2.9344987930964233,
+    "pitch": -0.546845036624213,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000201.jpg",
+    "yaw": 2.0953973294164356,
+    "pitch": -0.028163889944188062,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000202.jpg",
+    "yaw": 0.7980757588136765,
+    "pitch": -0.686196968618103,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000203.jpg",
+    "yaw": 0.24657017830168107,
+    "pitch": 0.14026757341119675,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000204.jpg",
+    "yaw": -0.31529656666709255,
+    "pitch": -0.27293697129622096,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000205.jpg",
+    "yaw": -2.0059418504983055,
+    "pitch": -0.5055938423916225,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000206.jpg",
+    "yaw": 1.6111986503527422,
+    "pitch": -1.118370167207101,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000207.jpg",
+    "yaw": 0.9172568645904063,
+    "pitch": -0.00424431520804702,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000208.jpg",
+    "yaw": 2.4111042491026238,
+    "pitch": -0.4520596209261903,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000209.jpg",
+    "yaw": 1.9966239571211952,
+    "pitch": 0.2603808779448735,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000210.jpg",
+    "yaw": 0.8661972266313683,
+    "pitch": -0.46344079086035045,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000211.jpg",
+    "yaw": 0.7451203215659066,
+    "pitch": -0.9514484395004325,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000212.jpg",
+    "yaw": -0.905912823875762,
+    "pitch": -0.28431610220654274,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000213.jpg",
+    "yaw": -0.39486370557425104,
+    "pitch": -1.1267127477308883,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000214.jpg",
+    "yaw": -1.0678605069499312,
+    "pitch": -0.3527221404772263,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000215.jpg",
+    "yaw": 0.5734087563233933,
+    "pitch": -0.6300215492717604,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000216.jpg",
+    "yaw": -0.5902805065350479,
+    "pitch": -1.389820976487949,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000217.jpg",
+    "yaw": -1.2252172805411705,
+    "pitch": -0.44351916619471426,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000218.jpg",
+    "yaw": -1.6300365831630461,
+    "pitch": -0.5587378559167318,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000219.jpg",
+    "yaw": -1.563753689731113,
+    "pitch": -0.5418573319047837,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000220.jpg",
+    "yaw": -1.1011825788161187,
+    "pitch": -0.46847038980667094,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000221.jpg",
+    "yaw": -0.8070402846992059,
+    "pitch": -0.5748224577946147,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000222.jpg",
+    "yaw": -0.838237594941207,
+    "pitch": -0.36979349102633974,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000223.jpg",
+    "yaw": 0.47467495253922826,
+    "pitch": -0.27387111281782417,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000224.jpg",
+    "yaw": -0.14622590326990592,
+    "pitch": -0.5383353200135035,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000225.jpg",
+    "yaw": 2.1422262441957076,
+    "pitch": -0.28447587938894187,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000226.jpg",
+    "yaw": -1.6065989443207456,
+    "pitch": 1.1179951071936587,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000227.jpg",
+    "yaw": 0.9117652986158298,
+    "pitch": -0.831865858164705,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000228.jpg",
+    "yaw": 0.2634626257292464,
+    "pitch": -1.736066754007672,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000229.jpg",
+    "yaw": -0.8147628503229465,
+    "pitch": -1.095145072499811,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000230.jpg",
+    "yaw": 1.2411857035498035,
+    "pitch": -0.2701598402063261,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000231.jpg",
+    "yaw": -0.8275696546275785,
+    "pitch": -0.584709478093298,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000232.jpg",
+    "yaw": -1.6137370684635948,
+    "pitch": -0.8539443905034846,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000233.jpg",
+    "yaw": -1.4165894251077225,
+    "pitch": -0.13294400114207924,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000234.jpg",
+    "yaw": -0.38757158259195296,
+    "pitch": -0.6486524265952182,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000235.jpg",
+    "yaw": -1.0378493600937,
+    "pitch": 0.02919754592566055,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000236.jpg",
+    "yaw": -0.09894225732842646,
+    "pitch": -0.41857940966052104,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000237.jpg",
+    "yaw": -0.6735595433254317,
+    "pitch": -0.6824686101694891,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000238.jpg",
+    "yaw": 1.1294114669019621,
+    "pitch": 0.4252686877997163,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000239.jpg",
+    "yaw": -1.144653817035194,
+    "pitch": -0.02469565584421811,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000240.jpg",
+    "yaw": -0.7782168333107019,
+    "pitch": -0.8521529648404509,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000241.jpg",
+    "yaw": -1.4601974739512313,
+    "pitch": 0.07928836103757593,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000242.jpg",
+    "yaw": 1.2360391742263543,
+    "pitch": -0.38261117412788526,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000243.jpg",
+    "yaw": 1.972708646926057,
+    "pitch": 0.050996356457449106,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000244.jpg",
+    "yaw": 2.984023951740982,
+    "pitch": 0.7862152305584067,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000245.jpg",
+    "yaw": -1.6793823506941632,
+    "pitch": 0.5770858122856772,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000246.jpg",
+    "yaw": 1.4268412743654633,
+    "pitch": -0.3347144982256698,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000247.jpg",
+    "yaw": -0.2630179983561268,
+    "pitch": 0.5988976744302607,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000248.jpg",
+    "yaw": -1.5360041946463279,
+    "pitch": -0.33160797913391954,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000249.jpg",
+    "yaw": -0.738085776898187,
+    "pitch": 0.06761515059222914,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000250.jpg",
+    "yaw": 0.276287142593319,
+    "pitch": 0.19722504636517077,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000251.jpg",
+    "yaw": 0.1760370088607125,
+    "pitch": -0.06304898164366844,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000252.jpg",
+    "yaw": -1.1969370797659826,
+    "pitch": -0.7851254907060294,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000253.jpg",
+    "yaw": -2.256531805403673,
+    "pitch": -0.5007007548394119,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000254.jpg",
+    "yaw": 0.6222269488974455,
+    "pitch": -0.0010807505958047563,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000255.jpg",
+    "yaw": 0.6061042757350793,
+    "pitch": -0.13849761047794606,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000256.jpg",
+    "yaw": -0.5630790066881749,
+    "pitch": 0.6576210534948816,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000257.jpg",
+    "yaw": -0.7375570930943676,
+    "pitch": -0.6238306178866363,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000258.jpg",
+    "yaw": -0.696424896738969,
+    "pitch": -0.46735534503504544,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000259.jpg",
+    "yaw": 0.2932432473727681,
+    "pitch": -0.015507314630870172,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000260.jpg",
+    "yaw": -2.1914337928831626,
+    "pitch": 0.15863622549674003,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000261.jpg",
+    "yaw": -1.4051021594049604,
+    "pitch": -0.5707316852353036,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000262.jpg",
+    "yaw": -2.296904260059355,
+    "pitch": -0.07024170117927303,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000263.jpg",
+    "yaw": -2.0285988641189667,
+    "pitch": 0.19523531413244516,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000264.jpg",
+    "yaw": -2.04739869931975,
+    "pitch": -0.4052108637973672,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000265.jpg",
+    "yaw": -2.4194319923028735,
+    "pitch": 0.19621558687382398,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000266.jpg",
+    "yaw": -1.4060326450555027,
+    "pitch": 0.25447872899093044,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000267.jpg",
+    "yaw": -1.7014423404498777,
+    "pitch": 0.10690714083939631,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000268.jpg",
+    "yaw": -2.0256720416642118,
+    "pitch": 0.26821306680372514,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000269.jpg",
+    "yaw": -2.498656826730268,
+    "pitch": 0.26184010466890534,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000270.jpg",
+    "yaw": -2.5542022359794183,
+    "pitch": 0.14734666703028917,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000271.jpg",
+    "yaw": -2.2319598682969044,
+    "pitch": 0.4450415122213776,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000272.jpg",
+    "yaw": -1.793272636747374,
+    "pitch": 0.03298792957695018,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000273.jpg",
+    "yaw": -1.978476060417573,
+    "pitch": 0.41063295429304303,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000274.jpg",
+    "yaw": -1.7826287263648009,
+    "pitch": 0.014585520659746467,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000275.jpg",
+    "yaw": -1.8688676473944614,
+    "pitch": 0.3064416461003136,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000276.jpg",
+    "yaw": -1.9453634481590036,
+    "pitch": 0.27010855751093277,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000277.jpg",
+    "yaw": -1.8963250994879677,
+    "pitch": 0.355608377699856,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000278.jpg",
+    "yaw": -2.174136528619868,
+    "pitch": 0.42571745711199893,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000279.jpg",
+    "yaw": -2.554212894669868,
+    "pitch": 0.431256062844615,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000280.jpg",
+    "yaw": -1.760596963170346,
+    "pitch": -0.09348156412161694,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000281.jpg",
+    "yaw": -1.3717140598070534,
+    "pitch": -0.01998636453952518,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000282.jpg",
+    "yaw": -0.9728750149397869,
+    "pitch": 0.25294348107550885,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000283.jpg",
+    "yaw": -1.1268636610626714,
+    "pitch": 0.2966057948469788,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000284.jpg",
+    "yaw": -1.6819620108848738,
+    "pitch": 0.4822993527200902,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000285.jpg",
+    "yaw": -1.5374497473874609,
+    "pitch": 0.04071731490192235,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000286.jpg",
+    "yaw": -1.4321697329116698,
+    "pitch": 0.12681402516385565,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000287.jpg",
+    "yaw": -1.5019618312863012,
+    "pitch": 0.05093325720093741,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000288.jpg",
+    "yaw": -1.4738841408534458,
+    "pitch": 0.01514722330602916,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000289.jpg",
+    "yaw": -0.2566488767443528,
+    "pitch": -0.3404580692165839,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000290.jpg",
+    "yaw": 0.839548023758789,
+    "pitch": -0.6119373426847261,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000291.jpg",
+    "yaw": 0.5712350548653938,
+    "pitch": -1.0087671224832968,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000292.jpg",
+    "yaw": 1.0923643351914425,
+    "pitch": -0.907741490880458,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000293.jpg",
+    "yaw": 1.6832190648627887,
+    "pitch": -1.1467799815082589,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000294.jpg",
+    "yaw": 1.3514091250393605,
+    "pitch": -1.1936585142411638,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000295.jpg",
+    "yaw": 1.0867441037368184,
+    "pitch": -1.386054059449659,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000296.jpg",
+    "yaw": 0.8870534839446353,
+    "pitch": -1.1059578682590177,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000297.jpg",
+    "yaw": 1.6159022620824344,
+    "pitch": -1.687398266073828,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000298.jpg",
+    "yaw": 1.5370614501982638,
+    "pitch": -1.6929646548844255,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000299.jpg",
+    "yaw": 1.1057792498494754,
+    "pitch": -1.7369255189075687,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000300.jpg",
+    "yaw": 1.7450071327161878,
+    "pitch": -1.15641803966154,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000301.jpg",
+    "yaw": 1.2989690907723281,
+    "pitch": -1.498283061935969,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000302.jpg",
+    "yaw": 1.1692516142085365,
+    "pitch": -1.7331535362902664,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000303.jpg",
+    "yaw": 0.8449827681448265,
+    "pitch": -1.8935861941693133,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000304.jpg",
+    "yaw": 1.3747489801073045,
+    "pitch": -2.9184983259848885,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000305.jpg",
+    "yaw": 1.1419800805772868,
+    "pitch": -2.9595362773230263,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000306.jpg",
+    "yaw": 1.65672479002405,
+    "pitch": -4.3114446160778055,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000307.jpg",
+    "yaw": 4.267524403812769,
+    "pitch": -6.484575432212222,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000308.jpg",
+    "yaw": 3.5917626505454625,
+    "pitch": -5.026517157458441,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000309.jpg",
+    "yaw": 5.213441431795434,
+    "pitch": -7.300786332409026,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000310.jpg",
+    "yaw": 4.980409837494478,
+    "pitch": -7.241272093642657,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000311.jpg",
+    "yaw": 4.699698835684325,
+    "pitch": -8.38809733861896,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000312.jpg",
+    "yaw": 5.527771750707094,
+    "pitch": -7.822340548066057,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000313.jpg",
+    "yaw": 6.048856209151006,
+    "pitch": -7.706142999553462,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000314.jpg",
+    "yaw": 6.32621802923458,
+    "pitch": -7.62799300582286,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000315.jpg",
+    "yaw": 6.22846024142863,
+    "pitch": -7.895598901037933,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000316.jpg",
+    "yaw": 6.262731699381685,
+    "pitch": -9.16011041476594,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000317.jpg",
+    "yaw": 6.082019384756816,
+    "pitch": -9.312991951398226,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000318.jpg",
+    "yaw": 8.01730560366353,
+    "pitch": -9.626583933408163,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000319.jpg",
+    "yaw": 7.827661157743277,
+    "pitch": -9.455800467268713,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000320.jpg",
+    "yaw": 7.73774204728933,
+    "pitch": -9.734750209395155,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000321.jpg",
+    "yaw": 6.571726325607275,
+    "pitch": -9.033691860236805,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000322.jpg",
+    "yaw": 6.436636163460122,
+    "pitch": -9.416331748225636,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000323.jpg",
+    "yaw": 6.858315388407701,
+    "pitch": -8.940961244310154,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000324.jpg",
+    "yaw": 7.067953855226367,
+    "pitch": -8.668992869450529,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000325.jpg",
+    "yaw": 7.198286581738073,
+    "pitch": -8.69454327837812,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000326.jpg",
+    "yaw": 6.533970980872662,
+    "pitch": -9.134869440452,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000327.jpg",
+    "yaw": 7.058994275186724,
+    "pitch": -9.21555137289961,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000328.jpg",
+    "yaw": 6.8647239909771365,
+    "pitch": -9.126506926840754,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  },
+  {
+    "file": "webcam_000329.jpg",
+    "yaw": 7.041261381902733,
+    "pitch": -8.192670448083316,
+    "sector": 8,
+    "iris_sector": 8,
+    "head_sector": 5,
+    "engaged": true
+  }
+]

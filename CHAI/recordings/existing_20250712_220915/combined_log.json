@@ -1,0 +1,4465 @@
+{
+  "webcam": [
+    {
+      "frame": 0,
+      "time": "2025-07-12T19:15:43.289471",
+      "file": "webcam_000000.jpg",
+      "fps": 0.0,
+      "emotion": {
+        "angry": "71.184",
+        "disgust": "0.000",
+        "fear": "0.014",
+        "happy": "0.078",
+        "sad": "4.168",
+        "surprise": "2.949",
+        "neutral": "21.607"
+      }
+    },
+    {
+      "frame": 1,
+      "time": "2025-07-12T19:15:43.363782",
+      "file": "webcam_000001.jpg",
+      "fps": 13.49,
+      "emotion": {
+        "angry": "0.879",
+        "disgust": "0.007",
+        "fear": "4.445",
+        "happy": "90.187",
+        "sad": "2.554",
+        "surprise": "0.002",
+        "neutral": "1.925"
+      }
+    },
+    {
+      "frame": 2,
+      "time": "2025-07-12T19:15:43.431666",
+      "file": "webcam_000002.jpg",
+      "fps": 14.79,
+      "emotion": {
+        "angry": "1.424",
+        "disgust": "0.010",
+        "fear": "8.995",
+        "happy": "77.760",
+        "sad": "5.115",
+        "surprise": "0.016",
+        "neutral": "6.679"
+      }
+    },
+    {
+      "frame": 3,
+      "time": "2025-07-12T19:15:43.500243",
+      "file": "webcam_000003.jpg",
+      "fps": 14.63,
+      "emotion": {
+        "angry": "0.548",
+        "disgust": "0.008",
+        "fear": "8.541",
+        "happy": "75.995",
+        "sad": "4.484",
+        "surprise": "0.008",
+        "neutral": "10.416"
+      }
+    },
+    {
+      "frame": 4,
+      "time": "2025-07-12T19:15:43.562418",
+      "file": "webcam_000004.jpg",
+      "fps": 15.94,
+      "emotion": {
+        "angry": "0.627",
+        "disgust": "0.072",
+        "fear": "15.913",
+        "happy": "66.187",
+        "sad": "4.114",
+        "surprise": "0.009",
+        "neutral": "13.077"
+      }
+    },
+    {
+      "frame": 5,
+      "time": "2025-07-12T19:15:43.628628",
+      "file": "webcam_000005.jpg",
+      "fps": 15.07,
+      "emotion": {
+        "angry": "1.721",
+        "disgust": "1.272",
+        "fear": "34.856",
+        "happy": "34.545",
+        "sad": "5.136",
+        "surprise": "0.022",
+        "neutral": "22.448"
+      }
+    },
+    {
+      "frame": 6,
+      "time": "2025-07-12T19:15:43.694523",
+      "file": "webcam_000006.jpg",
+      "fps": 15.13,
+      "emotion": {
+        "angry": "1.821",
+        "disgust": "2.656",
+        "fear": "64.291",
+        "happy": "13.890",
+        "sad": "2.735",
+        "surprise": "0.045",
+        "neutral": "14.562"
+      }
+    },
+    {
+      "frame": 7,
+      "time": "2025-07-12T19:15:43.761006",
+      "file": "webcam_000007.jpg",
+      "fps": 15.04,
+      "emotion": {
+        "angry": "6.671",
+        "disgust": "5.465",
+        "fear": "65.972",
+        "happy": "7.923",
+        "sad": "2.870",
+        "surprise": "0.080",
+        "neutral": "11.020"
+      }
+    },
+    {
+      "frame": 8,
+      "time": "2025-07-12T19:15:43.828801",
+      "file": "webcam_000008.jpg",
+      "fps": 14.78,
+      "emotion": {
+        "angry": "13.997",
+        "disgust": "3.080",
+        "fear": "66.528",
+        "happy": "4.199",
+        "sad": "2.903",
+        "surprise": "0.043",
+        "neutral": "9.250"
+      }
+    },
+    {
+      "frame": 9,
+      "time": "2025-07-12T19:15:43.894572",
+      "file": "webcam_000009.jpg",
+      "fps": 15.21,
+      "emotion": {
+        "angry": "17.924",
+        "disgust": "0.789",
+        "fear": "67.192",
+        "happy": "1.077",
+        "sad": "4.036",
+        "surprise": "0.035",
+        "neutral": "8.947"
+      }
+    },
+    {
+      "frame": 10,
+      "time": "2025-07-12T19:15:43.962912",
+      "file": "webcam_000010.jpg",
+      "fps": 14.63,
+      "emotion": {
+        "angry": "16.470",
+        "disgust": "0.462",
+        "fear": "65.440",
+        "happy": "0.513",
+        "sad": "4.894",
+        "surprise": "0.015",
+        "neutral": "12.206"
+      }
+    },
+    {
+      "frame": 11,
+      "time": "2025-07-12T19:15:44.030898",
+      "file": "webcam_000011.jpg",
+      "fps": 14.88,
+      "emotion": {
+        "angry": "10.722",
+        "disgust": "0.189",
+        "fear": "70.388",
+        "happy": "0.217",
+        "sad": "4.244",
+        "surprise": "0.021",
+        "neutral": "14.219"
+      }
+    },
+    {
+      "frame": 12,
+      "time": "2025-07-12T19:15:44.095683",
+      "file": "webcam_000012.jpg",
+      "fps": 15.17,
+      "emotion": {
+        "angry": "19.211",
+        "disgust": "0.193",
+        "fear": "60.888",
+        "happy": "0.138",
+        "sad": "8.036",
+        "surprise": "0.014",
+        "neutral": "11.521"
+      }
+    },
+    {
+      "frame": 13,
+      "time": "2025-07-12T19:15:44.165643",
+      "file": "webcam_000013.jpg",
+      "fps": 14.33,
+      "emotion": {
+        "angry": "19.785",
+        "disgust": "0.180",
+        "fear": "53.239",
+        "happy": "0.091",
+        "sad": "12.841",
+        "surprise": "0.007",
+        "neutral": "13.856"
+      }
+    },
+    {
+      "frame": 14,
+      "time": "2025-07-12T19:15:44.242966",
+      "file": "webcam_000014.jpg",
+      "fps": 13.09,
+      "emotion": {
+        "angry": "16.608",
+        "disgust": "0.075",
+        "fear": "55.783",
+        "happy": "0.063",
+        "sad": "14.756",
+        "surprise": "0.011",
+        "neutral": "12.705"
+      }
+    },
+    {
+      "frame": 15,
+      "time": "2025-07-12T19:15:44.312107",
+      "file": "webcam_000015.jpg",
+      "fps": 14.59,
+      "emotion": {
+        "angry": "24.317",
+        "disgust": "0.024",
+        "fear": "53.931",
+        "happy": "0.012",
+        "sad": "11.690",
+        "surprise": "0.025",
+        "neutral": "10.000"
+      }
+    },
+    {
+      "frame": 16,
+      "time": "2025-07-12T19:15:44.373672",
+      "file": "webcam_000016.jpg",
+      "fps": 16.07,
+      "emotion": {
+        "angry": "1.305",
+        "disgust": "0.000",
+        "fear": "1.160",
+        "happy": "0.002",
+        "sad": "0.343",
+        "surprise": "0.207",
+        "neutral": "96.983"
+      }
+    },
+    {
+      "frame": 17,
+      "time": "2025-07-12T19:15:44.442483",
+      "file": "webcam_000017.jpg",
+      "fps": 14.6,
+      "emotion": {
+        "angry": "3.066",
+        "disgust": "0.000",
+        "fear": "9.048",
+        "happy": "0.051",
+        "sad": "53.222",
+        "surprise": "0.005",
+        "neutral": "34.609"
+      }
+    },
+    {
+      "frame": 18,
+      "time": "2025-07-12T19:15:44.504258",
+      "file": "webcam_000018.jpg",
+      "fps": 16.28,
+      "emotion": {
+        "angry": "3.218",
+        "disgust": "0.000",
+        "fear": "28.521",
+        "happy": "0.237",
+        "sad": "52.903",
+        "surprise": "0.003",
+        "neutral": "15.119"
+      }
+    },
+    {
+      "frame": 19,
+      "time": "2025-07-12T19:15:44.568709",
+      "file": "webcam_000019.jpg",
+      "fps": 15.47,
+      "emotion": {
+        "angry": "2.463",
+        "disgust": "0.000",
+        "fear": "44.476",
+        "happy": "0.207",
+        "sad": "44.215",
+        "surprise": "0.002",
+        "neutral": "8.637"
+      }
+    },
+    {
+      "frame": 20,
+      "time": "2025-07-12T19:15:44.633159",
+      "file": "webcam_000020.jpg",
+      "fps": 15.58,
+      "emotion": {
+        "angry": "1.563",
+        "disgust": "0.000",
+        "fear": "57.608",
+        "happy": "0.480",
+        "sad": "31.392",
+        "surprise": "0.005",
+        "neutral": "8.951"
+      }
+    },
+    {
+      "frame": 21,
+      "time": "2025-07-12T19:15:44.696894",
+      "file": "webcam_000021.jpg",
+      "fps": 15.29,
+      "emotion": {
+        "angry": "1.456",
+        "disgust": "0.000",
+        "fear": "52.435",
+        "happy": "0.867",
+        "sad": "33.569",
+        "surprise": "0.009",
+        "neutral": "11.663"
+      }
+    },
+    {
+      "frame": 22,
+      "time": "2025-07-12T19:15:44.763585",
+      "file": "webcam_000022.jpg",
+      "fps": 15.01,
+      "emotion": {
+        "angry": "1.418",
+        "disgust": "0.000",
+        "fear": "55.033",
+        "happy": "0.917",
+        "sad": "32.242",
+        "surprise": "0.007",
+        "neutral": "10.382"
+      }
+    },
+    {
+      "frame": 23,
+      "time": "2025-07-12T19:15:44.830440",
+      "file": "webcam_000023.jpg",
+      "fps": 14.99,
+      "emotion": {
+        "angry": "1.070",
+        "disgust": "0.000",
+        "fear": "46.115",
+        "happy": "0.866",
+        "sad": "39.367",
+        "surprise": "0.006",
+        "neutral": "12.575"
+      }
+    },
+    {
+      "frame": 24,
+      "time": "2025-07-12T19:15:44.898563",
+      "file": "webcam_000024.jpg",
+      "fps": 15.03,
+      "emotion": {
+        "angry": "0.863",
+        "disgust": "0.000",
+        "fear": "35.328",
+        "happy": "1.295",
+        "sad": "49.780",
+        "surprise": "0.004",
+        "neutral": "12.730"
+      }
+    },
+    {
+      "frame": 25,
+      "time": "2025-07-12T19:15:44.963891",
+      "file": "webcam_000025.jpg",
+      "fps": 14.99,
+      "emotion": {
+        "angry": "0.596",
+        "disgust": "0.000",
+        "fear": "37.751",
+        "happy": "0.946",
+        "sad": "50.467",
+        "surprise": "0.003",
+        "neutral": "10.236"
+      }
+    },
+    {
+      "frame": 26,
+      "time": "2025-07-12T19:15:45.036274",
+      "file": "webcam_000026.jpg",
+      "fps": 14.71,
+      "emotion": {
+        "angry": "0.485",
+        "disgust": "0.000",
+        "fear": "29.483",
+        "happy": "0.526",
+        "sad": "60.826",
+        "surprise": "0.002",
+        "neutral": "8.679"
+      }
+    },
+    {
+      "frame": 27,
+      "time": "2025-07-12T19:15:45.101555",
+      "file": "webcam_000027.jpg",
+      "fps": 14.54,
+      "emotion": {
+        "angry": "0.495",
+        "disgust": "0.000",
+        "fear": "23.462",
+        "happy": "0.486",
+        "sad": "57.741",
+        "surprise": "0.005",
+        "neutral": "17.810"
+      }
+    },
+    {
+      "frame": 28,
+      "time": "2025-07-12T19:15:45.167158",
+      "file": "webcam_000028.jpg",
+      "fps": 15.35,
+      "emotion": {
+        "angry": "18.372",
+        "disgust": "0.000",
+        "fear": "17.933",
+        "happy": "0.007",
+        "sad": "3.099",
+        "surprise": "2.114",
+        "neutral": "58.476"
+      }
+    },
+    {
+      "frame": 29,
+      "time": "2025-07-12T19:15:45.232767",
+      "file": "webcam_000029.jpg",
+      "fps": 15.05,
+      "emotion": {
+        "angry": "0.308",
+        "disgust": "0.000",
+        "fear": "20.780",
+        "happy": "0.269",
+        "sad": "66.763",
+        "surprise": "0.002",
+        "neutral": "11.878"
+      }
+    },
+    {
+      "frame": 30,
+      "time": "2025-07-12T19:15:45.297756",
+      "file": "webcam_000030.jpg",
+      "fps": 15.2,
+      "emotion": {
+        "angry": "0.692",
+        "disgust": "0.000",
+        "fear": "35.240",
+        "happy": "0.930",
+        "sad": "50.000",
+        "surprise": "0.004",
+        "neutral": "13.135"
+      }
+    },
+    {
+      "frame": 31,
+      "time": "2025-07-12T19:15:45.364330",
+      "file": "webcam_000031.jpg",
+      "fps": 15.04,
+      "emotion": {
+        "angry": "0.600",
+        "disgust": "0.000",
+        "fear": "21.698",
+        "happy": "0.762",
+        "sad": "63.009",
+        "surprise": "0.004",
+        "neutral": "13.928"
+      }
+    },
+    {
+      "frame": 32,
+      "time": "2025-07-12T19:15:45.432643",
+      "file": "webcam_000032.jpg",
+      "fps": 14.82,
+      "emotion": {
+        "angry": "1.104",
+        "disgust": "0.000",
+        "fear": "37.511",
+        "happy": "1.084",
+        "sad": "48.988",
+        "surprise": "0.005",
+        "neutral": "11.307"
+      }
+    },
+    {
+      "frame": 33,
+      "time": "2025-07-12T19:15:45.496546",
+      "file": "webcam_000033.jpg",
+      "fps": 15.35,
+      "emotion": {
+        "angry": "0.995",
+        "disgust": "0.000",
+        "fear": "37.377",
+        "happy": "1.269",
+        "sad": "48.911",
+        "surprise": "0.005",
+        "neutral": "11.443"
+      }
+    },
+    {
+      "frame": 34,
+      "time": "2025-07-12T19:15:45.566706",
+      "file": "webcam_000034.jpg",
+      "fps": 14.27,
+      "emotion": {
+        "angry": "0.414",
+        "disgust": "0.000",
+        "fear": "32.500",
+        "happy": "0.802",
+        "sad": "55.620",
+        "surprise": "0.002",
+        "neutral": "10.661"
+      }
+    },
+    {
+      "frame": 35,
+      "time": "2025-07-12T19:15:45.644332",
+      "file": "webcam_000035.jpg",
+      "fps": 14.28,
+      "emotion": {
+        "angry": "0.673",
+        "disgust": "0.000",
+        "fear": "24.556",
+        "happy": "3.272",
+        "sad": "52.725",
+        "surprise": "0.009",
+        "neutral": "18.765"
+      }
+    },
+    {
+      "frame": 36,
+      "time": "2025-07-12T19:15:45.709969",
+      "file": "webcam_000036.jpg",
+      "fps": 13.98,
+      "emotion": {
+        "angry": "29.952",
+        "disgust": "0.011",
+        "fear": "30.590",
+        "happy": "0.249",
+        "sad": "5.932",
+        "surprise": "7.274",
+        "neutral": "25.992"
+      }
+    },
+    {
+      "frame": 37,
+      "time": "2025-07-12T19:15:45.773438",
+      "file": "webcam_000037.jpg",
+      "fps": 15.66,
+      "emotion": {
+        "angry": "0.121",
+        "disgust": "0.000",
+        "fear": "4.935",
+        "happy": "0.135",
+        "sad": "76.909",
+        "surprise": "0.002",
+        "neutral": "17.898"
+      }
+    },
+    {
+      "frame": 38,
+      "time": "2025-07-12T19:15:45.842143",
+      "file": "webcam_000038.jpg",
+      "fps": 14.6,
+      "emotion": {
+        "angry": "0.135",
+        "disgust": "0.000",
+        "fear": "7.582",
+        "happy": "0.115",
+        "sad": "72.823",
+        "surprise": "0.001",
+        "neutral": "19.344"
+      }
+    },
+    {
+      "frame": 39,
+      "time": "2025-07-12T19:15:45.909705",
+      "file": "webcam_000039.jpg",
+      "fps": 14.84,
+      "emotion": {
+        "angry": "0.109",
+        "disgust": "0.000",
+        "fear": "2.555",
+        "happy": "0.014",
+        "sad": "79.298",
+        "surprise": "0.000",
+        "neutral": "18.024"
+      }
+    },
+    {
+      "frame": 40,
+      "time": "2025-07-12T19:15:45.970778",
+      "file": "webcam_000040.jpg",
+      "fps": 16.5,
+      "emotion": {
+        "angry": "0.382",
+        "disgust": "0.000",
+        "fear": "6.863",
+        "happy": "0.044",
+        "sad": "66.275",
+        "surprise": "0.001",
+        "neutral": "26.434"
+      }
+    },
+    {
+      "frame": 41,
+      "time": "2025-07-12T19:15:46.034716",
+      "file": "webcam_000041.jpg",
+      "fps": 15.65,
+      "emotion": {
+        "angry": "0.290",
+        "disgust": "0.000",
+        "fear": "16.933",
+        "happy": "0.052",
+        "sad": "56.752",
+        "surprise": "0.001",
+        "neutral": "25.972"
+      }
+    },
+    {
+      "frame": 42,
+      "time": "2025-07-12T19:15:46.099206",
+      "file": "webcam_000042.jpg",
+      "fps": 15.37,
+      "emotion": {
+        "angry": "0.173",
+        "disgust": "0.000",
+        "fear": "27.094",
+        "happy": "0.044",
+        "sad": "50.274",
+        "surprise": "0.000",
+        "neutral": "22.415"
+      }
+    },
+    {
+      "frame": 43,
+      "time": "2025-07-12T19:15:46.164941",
+      "file": "webcam_000043.jpg",
+      "fps": 14.89,
+      "emotion": {
+        "angry": "0.349",
+        "disgust": "0.000",
+        "fear": "20.451",
+        "happy": "0.005",
+        "sad": "64.686",
+        "surprise": "0.000",
+        "neutral": "14.510"
+      }
+    },
+    {
+      "frame": 44,
+      "time": "2025-07-12T19:15:46.234943",
+      "file": "webcam_000044.jpg",
+      "fps": 15.01,
+      "emotion": {
+        "angry": "0.385",
+        "disgust": "0.000",
+        "fear": "16.829",
+        "happy": "0.008",
+        "sad": "62.943",
+        "surprise": "0.000",
+        "neutral": "19.835"
+      }
+    },
+    {
+      "frame": 45,
+      "time": "2025-07-12T19:15:46.298249",
+      "file": "webcam_000045.jpg",
+      "fps": 15.08,
+      "emotion": {
+        "angry": "0.450",
+        "disgust": "0.000",
+        "fear": "12.886",
+        "happy": "0.015",
+        "sad": "65.145",
+        "surprise": "0.000",
+        "neutral": "21.503"
+      }
+    },
+    {
+      "frame": 46,
+      "time": "2025-07-12T19:15:46.364898",
+      "file": "webcam_000046.jpg",
+      "fps": 14.94,
+      "emotion": {
+        "angry": "0.478",
+        "disgust": "0.000",
+        "fear": "16.114",
+        "happy": "0.013",
+        "sad": "60.451",
+        "surprise": "0.000",
+        "neutral": "22.944"
+      }
+    },
+    {
+      "frame": 47,
+      "time": "2025-07-12T19:15:46.432647",
+      "file": "webcam_000047.jpg",
+      "fps": 14.77,
+      "emotion": {
+        "angry": "0.483",
+        "disgust": "0.000",
+        "fear": "13.706",
+        "happy": "0.026",
+        "sad": "49.878",
+        "surprise": "0.001",
+        "neutral": "35.906"
+      }
+    },
+    {
+      "frame": 48,
+      "time": "2025-07-12T19:15:46.497321",
+      "file": "webcam_000048.jpg",
+      "fps": 15.41,
+      "emotion": {
+        "angry": "0.749",
+        "disgust": "0.000",
+        "fear": "11.002",
+        "happy": "0.025",
+        "sad": "51.420",
+        "surprise": "0.001",
+        "neutral": "36.803"
+      }
+    },
+    {
+      "frame": 49,
+      "time": "2025-07-12T19:15:46.563752",
+      "file": "webcam_000049.jpg",
+      "fps": 15.01,
+      "emotion": {
+        "angry": "0.985",
+        "disgust": "0.000",
+        "fear": "12.487",
+        "happy": "0.050",
+        "sad": "43.071",
+        "surprise": "0.006",
+        "neutral": "43.400"
+      }
+    },
+    {
+      "frame": 50,
+      "time": "2025-07-12T19:15:46.634613",
+      "file": "webcam_000050.jpg",
+      "fps": 14.17,
+      "emotion": {
+        "angry": "1.534",
+        "disgust": "0.000",
+        "fear": "13.049",
+        "happy": "0.086",
+        "sad": "33.674",
+        "surprise": "0.022",
+        "neutral": "51.635"
+      }
+    },
+    {
+      "frame": 51,
+      "time": "2025-07-12T19:15:46.699442",
+      "file": "webcam_000051.jpg",
+      "fps": 15.4,
+      "emotion": {
+        "angry": "0.942",
+        "disgust": "0.000",
+        "fear": "14.625",
+        "happy": "0.149",
+        "sad": "22.971",
+        "surprise": "0.030",
+        "neutral": "61.283"
+      }
+    },
+    {
+      "frame": 52,
+      "time": "2025-07-12T19:15:46.766241",
+      "file": "webcam_000052.jpg",
+      "fps": 14.95,
+      "emotion": {
+        "angry": "1.420",
+        "disgust": "0.000",
+        "fear": "15.734",
+        "happy": "0.094",
+        "sad": "28.835",
+        "surprise": "0.026",
+        "neutral": "53.891"
+      }
+    },
+    {
+      "frame": 53,
+      "time": "2025-07-12T19:15:46.855455",
+      "file": "webcam_000053.jpg",
+      "fps": 12.32,
+      "emotion": {
+        "angry": "1.742",
+        "disgust": "0.000",
+        "fear": "17.784",
+        "happy": "0.075",
+        "sad": "27.763",
+        "surprise": "0.036",
+        "neutral": "52.600"
+      }
+    },
+    {
+      "frame": 54,
+      "time": "2025-07-12T19:15:46.938163",
+      "file": "webcam_000054.jpg",
+      "fps": 11.15,
+      "emotion": {
+        "angry": "1.275",
+        "disgust": "0.000",
+        "fear": "16.228",
+        "happy": "0.075",
+        "sad": "25.666",
+        "surprise": "0.034",
+        "neutral": "56.722"
+      }
+    },
+    {
+      "frame": 55,
+      "time": "2025-07-12T19:15:47.001420",
+      "file": "webcam_000055.jpg",
+      "fps": 15.89,
+      "emotion": {
+        "angry": "1.584",
+        "disgust": "0.000",
+        "fear": "16.449",
+        "happy": "0.145",
+        "sad": "19.892",
+        "surprise": "0.031",
+        "neutral": "61.898"
+      }
+    },
+    {
+      "frame": 56,
+      "time": "2025-07-12T19:15:47.069382",
+      "file": "webcam_000056.jpg",
+      "fps": 15.09,
+      "emotion": {
+        "angry": "0.722",
+        "disgust": "0.000",
+        "fear": "35.928",
+        "happy": "0.192",
+        "sad": "11.642",
+        "surprise": "0.065",
+        "neutral": "51.451"
+      }
+    },
+    {
+      "frame": 57,
+      "time": "2025-07-12T19:15:47.152731",
+      "file": "webcam_000057.jpg",
+      "fps": 11.82,
+      "emotion": {
+        "angry": "1.657",
+        "disgust": "0.000",
+        "fear": "46.800",
+        "happy": "0.050",
+        "sad": "16.489",
+        "surprise": "0.036",
+        "neutral": "34.969"
+      }
+    },
+    {
+      "frame": 58,
+      "time": "2025-07-12T19:15:47.205868",
+      "file": "webcam_000058.jpg",
+      "fps": 18.44,
+      "emotion": {
+        "angry": "34.866",
+        "disgust": "0.034",
+        "fear": "27.600",
+        "happy": "0.565",
+        "sad": "7.514",
+        "surprise": "12.123",
+        "neutral": "17.298"
+      }
+    },
+    {
+      "frame": 59,
+      "time": "2025-07-12T19:15:47.269231",
+      "file": "webcam_000059.jpg",
+      "fps": 16.21,
+      "emotion": {
+        "angry": "1.187",
+        "disgust": "0.000",
+        "fear": "32.532",
+        "happy": "0.019",
+        "sad": "37.840",
+        "surprise": "0.012",
+        "neutral": "28.411"
+      }
+    },
+    {
+      "frame": 60,
+      "time": "2025-07-12T19:15:47.332536",
+      "file": "webcam_000060.jpg",
+      "fps": 15.26,
+      "emotion": {
+        "angry": "30.222",
+        "disgust": "0.069",
+        "fear": "43.482",
+        "happy": "0.385",
+        "sad": "4.940",
+        "surprise": "11.876",
+        "neutral": "9.027"
+      }
+    },
+    {
+      "frame": 61,
+      "time": "2025-07-12T19:15:47.397443",
+      "file": "webcam_000061.jpg",
+      "fps": 15.44,
+      "emotion": {
+        "angry": "19.739",
+        "disgust": "0.007",
+        "fear": "23.894",
+        "happy": "0.151",
+        "sad": "5.402",
+        "surprise": "7.440",
+        "neutral": "43.366"
+      }
+    },
+    {
+      "frame": 62,
+      "time": "2025-07-12T19:15:47.466498",
+      "file": "webcam_000062.jpg",
+      "fps": 14.43,
+      "emotion": {
+        "angry": "20.449",
+        "disgust": "0.004",
+        "fear": "24.755",
+        "happy": "0.082",
+        "sad": "4.151",
+        "surprise": "7.952",
+        "neutral": "42.608"
+      }
+    },
+    {
+      "frame": 63,
+      "time": "2025-07-12T19:15:47.537848",
+      "file": "webcam_000063.jpg",
+      "fps": 14.21,
+      "emotion": {
+        "angry": "20.650",
+        "disgust": "0.003",
+        "fear": "23.119",
+        "happy": "0.027",
+        "sad": "6.035",
+        "surprise": "1.705",
+        "neutral": "48.461"
+      }
+    },
+    {
+      "frame": 64,
+      "time": "2025-07-12T19:15:47.604654",
+      "file": "webcam_000064.jpg",
+      "fps": 15.83,
+      "emotion": {
+        "angry": "13.952",
+        "disgust": "0.006",
+        "fear": "25.426",
+        "happy": "0.212",
+        "sad": "2.061",
+        "surprise": "31.039",
+        "neutral": "27.305"
+      }
+    },
+    {
+      "frame": 65,
+      "time": "2025-07-12T19:15:47.676013",
+      "file": "webcam_000065.jpg",
+      "fps": 13.38,
+      "emotion": {
+        "angry": "17.065",
+        "disgust": "0.009",
+        "fear": "34.203",
+        "happy": "0.173",
+        "sad": "1.585",
+        "surprise": "29.241",
+        "neutral": "17.724"
+      }
+    },
+    {
+      "frame": 66,
+      "time": "2025-07-12T19:15:47.745693",
+      "file": "webcam_000066.jpg",
+      "fps": 14.44,
+      "emotion": {
+        "angry": "3.062",
+        "disgust": "0.011",
+        "fear": "10.274",
+        "happy": "0.866",
+        "sad": "1.541",
+        "surprise": "16.808",
+        "neutral": "67.437"
+      }
+    },
+    {
+      "frame": 67,
+      "time": "2025-07-12T19:15:47.813336",
+      "file": "webcam_000067.jpg",
+      "fps": 14.76,
+      "emotion": {
+        "angry": "3.211",
+        "disgust": "0.002",
+        "fear": "12.296",
+        "happy": "0.112",
+        "sad": "1.014",
+        "surprise": "4.735",
+        "neutral": "78.630"
+      }
+    },
+    {
+      "frame": 68,
+      "time": "2025-07-12T19:15:47.884103",
+      "file": "webcam_000068.jpg",
+      "fps": 14.07,
+      "emotion": {
+        "angry": "3.742",
+        "disgust": "0.005",
+        "fear": "13.982",
+        "happy": "0.225",
+        "sad": "1.234",
+        "surprise": "7.211",
+        "neutral": "73.600"
+      }
+    },
+    {
+      "frame": 69,
+      "time": "2025-07-12T19:15:47.933345",
+      "file": "webcam_000069.jpg",
+      "fps": 20.02,
+      "emotion": {
+        "angry": "12.949",
+        "disgust": "0.001",
+        "fear": "19.186",
+        "happy": "0.029",
+        "sad": "2.510",
+        "surprise": "3.403",
+        "neutral": "61.922"
+      }
+    },
+    {
+      "frame": 70,
+      "time": "2025-07-12T19:15:48.000528",
+      "file": "webcam_000070.jpg",
+      "fps": 15.25,
+      "emotion": {
+        "angry": "13.915",
+        "disgust": "0.001",
+        "fear": "19.187",
+        "happy": "0.018",
+        "sad": "3.259",
+        "surprise": "1.899",
+        "neutral": "61.722"
+      }
+    },
+    {
+      "frame": 71,
+      "time": "2025-07-12T19:15:48.067228",
+      "file": "webcam_000071.jpg",
+      "fps": 14.93,
+      "emotion": {
+        "angry": "35.201",
+        "disgust": "0.058",
+        "fear": "24.579",
+        "happy": "0.063",
+        "sad": "2.808",
+        "surprise": "2.427",
+        "neutral": "34.865"
+      }
+    },
+    {
+      "frame": 72,
+      "time": "2025-07-12T19:15:48.138605",
+      "file": "webcam_000072.jpg",
+      "fps": 13.98,
+      "emotion": {
+        "angry": "65.778",
+        "disgust": "0.046",
+        "fear": "14.410",
+        "happy": "0.013",
+        "sad": "1.979",
+        "surprise": "0.769",
+        "neutral": "17.005"
+      }
+    },
+    {
+      "frame": 73,
+      "time": "2025-07-12T19:15:48.213143",
+      "file": "webcam_000073.jpg",
+      "fps": 13.51,
+      "emotion": {
+        "angry": "51.275",
+        "disgust": "0.003",
+        "fear": "4.775",
+        "happy": "0.002",
+        "sad": "3.173",
+        "surprise": "0.052",
+        "neutral": "40.721"
+      }
+    },
+    {
+      "frame": 74,
+      "time": "2025-07-12T19:15:48.278981",
+      "file": "webcam_000074.jpg",
+      "fps": 14.93,
+      "emotion": {
+        "angry": "21.013",
+        "disgust": "0.004",
+        "fear": "6.561",
+        "happy": "0.008",
+        "sad": "3.482",
+        "surprise": "0.118",
+        "neutral": "68.814"
+      }
+    },
+    {
+      "frame": 75,
+      "time": "2025-07-12T19:15:48.340948",
+      "file": "webcam_000075.jpg",
+      "fps": 16.2,
+      "emotion": {
+        "angry": "27.528",
+        "disgust": "0.007",
+        "fear": "16.490",
+        "happy": "0.036",
+        "sad": "2.369",
+        "surprise": "0.932",
+        "neutral": "52.638"
+      }
+    },
+    {
+      "frame": 76,
+      "time": "2025-07-12T19:15:48.406438",
+      "file": "webcam_000076.jpg",
+      "fps": 15.26,
+      "emotion": {
+        "angry": "20.864",
+        "disgust": "0.007",
+        "fear": "20.251",
+        "happy": "0.030",
+        "sad": "2.091",
+        "surprise": "0.786",
+        "neutral": "55.972"
+      }
+    },
+    {
+      "frame": 77,
+      "time": "2025-07-12T19:15:48.486741",
+      "file": "webcam_000077.jpg",
+      "fps": 12.6,
+      "emotion": {
+        "angry": "19.296",
+        "disgust": "0.003",
+        "fear": "15.721",
+        "happy": "0.017",
+        "sad": "2.010",
+        "surprise": "0.737",
+        "neutral": "62.216"
+      }
+    },
+    {
+      "frame": 78,
+      "time": "2025-07-12T19:15:48.532431",
+      "file": "webcam_000078.jpg",
+      "fps": 21.0,
+      "emotion": {
+        "angry": "13.435",
+        "disgust": "0.002",
+        "fear": "10.603",
+        "happy": "0.045",
+        "sad": "1.789",
+        "surprise": "1.137",
+        "neutral": "72.989"
+      }
+    },
+    {
+      "frame": 79,
+      "time": "2025-07-12T19:15:48.611044",
+      "file": "webcam_000079.jpg",
+      "fps": 14.35,
+      "emotion": {
+        "angry": "35.142",
+        "disgust": "0.087",
+        "fear": "33.559",
+        "happy": "0.214",
+        "sad": "5.776",
+        "surprise": "1.745",
+        "neutral": "23.479"
+      }
+    },
+    {
+      "frame": 80,
+      "time": "2025-07-12T19:15:48.670623",
+      "file": "webcam_000080.jpg",
+      "fps": 15.72,
+      "emotion": {
+        "angry": "14.476",
+        "disgust": "0.006",
+        "fear": "22.885",
+        "happy": "0.036",
+        "sad": "5.514",
+        "surprise": "0.757",
+        "neutral": "56.327"
+      }
+    },
+    {
+      "frame": 81,
+      "time": "2025-07-12T19:15:48.743806",
+      "file": "webcam_000081.jpg",
+      "fps": 12.96,
+      "emotion": {
+        "angry": "12.844",
+        "disgust": "0.003",
+        "fear": "21.208",
+        "happy": "0.036",
+        "sad": "3.919",
+        "surprise": "0.945",
+        "neutral": "61.045"
+      }
+    },
+    {
+      "frame": 82,
+      "time": "2025-07-12T19:15:48.812276",
+      "file": "webcam_000082.jpg",
+      "fps": 14.7,
+      "emotion": {
+        "angry": "9.617",
+        "disgust": "0.002",
+        "fear": "32.117",
+        "happy": "0.061",
+        "sad": "1.592",
+        "surprise": "4.838",
+        "neutral": "51.773"
+      }
+    },
+    {
+      "frame": 83,
+      "time": "2025-07-12T19:15:48.875968",
+      "file": "webcam_000083.jpg",
+      "fps": 15.7,
+      "emotion": {
+        "angry": "24.153",
+        "disgust": "0.053",
+        "fear": "59.163",
+        "happy": "0.074",
+        "sad": "4.387",
+        "surprise": "1.712",
+        "neutral": "10.458"
+      }
+    },
+    {
+      "frame": 84,
+      "time": "2025-07-12T19:15:48.941591",
+      "file": "webcam_000084.jpg",
+      "fps": 15.24,
+      "emotion": {
+        "angry": "32.618",
+        "disgust": "0.218",
+        "fear": "45.143",
+        "happy": "0.075",
+        "sad": "7.399",
+        "surprise": "1.325",
+        "neutral": "13.223"
+      }
+    },
+    {
+      "frame": 85,
+      "time": "2025-07-12T19:15:49.027719",
+      "file": "webcam_000085.jpg",
+      "fps": 12.48,
+      "emotion": {
+        "angry": "9.698",
+        "disgust": "0.001",
+        "fear": "6.216",
+        "happy": "0.007",
+        "sad": "5.196",
+        "surprise": "0.044",
+        "neutral": "78.838"
+      }
+    },
+    {
+      "frame": 86,
+      "time": "2025-07-12T19:15:49.101355",
+      "file": "webcam_000086.jpg",
+      "fps": 12.46,
+      "emotion": {
+        "angry": "27.026",
+        "disgust": "0.080",
+        "fear": "30.892",
+        "happy": "0.103",
+        "sad": "10.509",
+        "surprise": "0.655",
+        "neutral": "30.736"
+      }
+    },
+    {
+      "frame": 87,
+      "time": "2025-07-12T19:15:49.167380",
+      "file": "webcam_000087.jpg",
+      "fps": 15.01,
+      "emotion": {
+        "angry": "30.300",
+        "disgust": "0.145",
+        "fear": "29.492",
+        "happy": "0.090",
+        "sad": "12.789",
+        "surprise": "0.491",
+        "neutral": "26.692"
+      }
+    },
+    {
+      "frame": 88,
+      "time": "2025-07-12T19:15:49.236445",
+      "file": "webcam_000088.jpg",
+      "fps": 14.76,
+      "emotion": {
+        "angry": "12.623",
+        "disgust": "0.002",
+        "fear": "29.152",
+        "happy": "0.049",
+        "sad": "13.679",
+        "surprise": "0.305",
+        "neutral": "44.190"
+      }
+    },
+    {
+      "frame": 89,
+      "time": "2025-07-12T19:15:49.304344",
+      "file": "webcam_000089.jpg",
+      "fps": 14.69,
+      "emotion": {
+        "angry": "24.616",
+        "disgust": "0.021",
+        "fear": "31.343",
+        "happy": "0.117",
+        "sad": "9.500",
+        "surprise": "0.576",
+        "neutral": "33.827"
+      }
+    },
+    {
+      "frame": 90,
+      "time": "2025-07-12T19:15:49.372852",
+      "file": "webcam_000090.jpg",
+      "fps": 14.68,
+      "emotion": {
+        "angry": "33.469",
+        "disgust": "0.084",
+        "fear": "29.578",
+        "happy": "0.084",
+        "sad": "9.661",
+        "surprise": "0.688",
+        "neutral": "26.435"
+      }
+    },
+    {
+      "frame": 91,
+      "time": "2025-07-12T19:15:49.437500",
+      "file": "webcam_000091.jpg",
+      "fps": 15.39,
+      "emotion": {
+        "angry": "45.151",
+        "disgust": "0.148",
+        "fear": "36.477",
+        "happy": "0.226",
+        "sad": "4.363",
+        "surprise": "4.351",
+        "neutral": "9.284"
+      }
+    },
+    {
+      "frame": 92,
+      "time": "2025-07-12T19:15:49.500831",
+      "file": "webcam_000092.jpg",
+      "fps": 15.82,
+      "emotion": {
+        "angry": "25.398",
+        "disgust": "0.014",
+        "fear": "15.435",
+        "happy": "0.054",
+        "sad": "5.670",
+        "surprise": "1.177",
+        "neutral": "52.252"
+      }
+    },
+    {
+      "frame": 93,
+      "time": "2025-07-12T19:15:49.565812",
+      "file": "webcam_000093.jpg",
+      "fps": 15.01,
+      "emotion": {
+        "angry": "22.936",
+        "disgust": "0.005",
+        "fear": "4.131",
+        "happy": "0.006",
+        "sad": "5.018",
+        "surprise": "0.078",
+        "neutral": "67.826"
+      }
+    },
+    {
+      "frame": 94,
+      "time": "2025-07-12T19:15:49.633475",
+      "file": "webcam_000094.jpg",
+      "fps": 14.9,
+      "emotion": {
+        "angry": "0.179",
+        "disgust": "0.000",
+        "fear": "7.922",
+        "happy": "0.094",
+        "sad": "77.162",
+        "surprise": "0.001",
+        "neutral": "14.643"
+      }
+    },
+    {
+      "frame": 95,
+      "time": "2025-07-12T19:15:49.699706",
+      "file": "webcam_000095.jpg",
+      "fps": 15.08,
+      "emotion": {
+        "angry": "0.188",
+        "disgust": "0.000",
+        "fear": "10.256",
+        "happy": "0.115",
+        "sad": "76.393",
+        "surprise": "0.001",
+        "neutral": "13.046"
+      }
+    },
+    {
+      "frame": 96,
+      "time": "2025-07-12T19:15:49.768347",
+      "file": "webcam_000096.jpg",
+      "fps": 14.88,
+      "emotion": {
+        "angry": "9.896",
+        "disgust": "0.004",
+        "fear": "15.913",
+        "happy": "0.093",
+        "sad": "6.023",
+        "surprise": "0.996",
+        "neutral": "67.074"
+      }
+    },
+    {
+      "frame": 97,
+      "time": "2025-07-12T19:15:49.833366",
+      "file": "webcam_000097.jpg",
+      "fps": 15.07,
+      "emotion": {
+        "angry": "0.154",
+        "disgust": "0.000",
+        "fear": "6.038",
+        "happy": "0.060",
+        "sad": "76.387",
+        "surprise": "0.001",
+        "neutral": "17.361"
+      }
+    },
+    {
+      "frame": 98,
+      "time": "2025-07-12T19:15:49.898555",
+      "file": "webcam_000098.jpg",
+      "fps": 15.24,
+      "emotion": {
+        "angry": "7.885",
+        "disgust": "0.000",
+        "fear": "18.843",
+        "happy": "0.015",
+        "sad": "1.854",
+        "surprise": "0.912",
+        "neutral": "70.492"
+      }
+    },
+    {
+      "frame": 99,
+      "time": "2025-07-12T19:15:49.966270",
+      "file": "webcam_000099.jpg",
+      "fps": 14.73,
+      "emotion": {
+        "angry": "0.191",
+        "disgust": "0.000",
+        "fear": "6.738",
+        "happy": "0.106",
+        "sad": "58.355",
+        "surprise": "0.001",
+        "neutral": "34.609"
+      }
+    },
+    {
+      "frame": 100,
+      "time": "2025-07-12T19:15:50.033705",
+      "file": "webcam_000100.jpg",
+      "fps": 14.88,
+      "emotion": {
+        "angry": "0.213",
+        "disgust": "0.000",
+        "fear": "5.354",
+        "happy": "0.144",
+        "sad": "46.356",
+        "surprise": "0.002",
+        "neutral": "47.930"
+      }
+    },
+    {
+      "frame": 101,
+      "time": "2025-07-12T19:15:50.100042",
+      "file": "webcam_000101.jpg",
+      "fps": 15.08,
+      "emotion": {
+        "angry": "67.781",
+        "disgust": "0.868",
+        "fear": "23.189",
+        "happy": "0.040",
+        "sad": "4.360",
+        "surprise": "0.950",
+        "neutral": "2.812"
+      }
+    },
+    {
+      "frame": 102,
+      "time": "2025-07-12T19:15:50.173899",
+      "file": "webcam_000102.jpg",
+      "fps": 13.75,
+      "emotion": {
+        "angry": "7.276",
+        "disgust": "0.000",
+        "fear": "9.698",
+        "happy": "0.011",
+        "sad": "6.151",
+        "surprise": "0.121",
+        "neutral": "76.743"
+      }
+    },
+    {
+      "frame": 103,
+      "time": "2025-07-12T19:15:50.242214",
+      "file": "webcam_000103.jpg",
+      "fps": 14.63,
+      "emotion": {
+        "angry": "25.029",
+        "disgust": "0.066",
+        "fear": "31.661",
+        "happy": "0.088",
+        "sad": "4.368",
+        "surprise": "2.688",
+        "neutral": "36.101"
+      }
+    },
+    {
+      "frame": 104,
+      "time": "2025-07-12T19:15:50.309735",
+      "file": "webcam_000104.jpg",
+      "fps": 14.84,
+      "emotion": {
+        "angry": "46.036",
+        "disgust": "0.228",
+        "fear": "11.198",
+        "happy": "0.014",
+        "sad": "8.964",
+        "surprise": "0.354",
+        "neutral": "33.206"
+      }
+    },
+    {
+      "frame": 105,
+      "time": "2025-07-12T19:15:50.376898",
+      "file": "webcam_000105.jpg",
+      "fps": 14.84,
+      "emotion": {
+        "angry": "44.009",
+        "disgust": "0.019",
+        "fear": "13.810",
+        "happy": "0.009",
+        "sad": "6.065",
+        "surprise": "0.273",
+        "neutral": "35.814"
+      }
+    },
+    {
+      "frame": 106,
+      "time": "2025-07-12T19:15:50.446457",
+      "file": "webcam_000106.jpg",
+      "fps": 14.39,
+      "emotion": {
+        "angry": "50.296",
+        "disgust": "0.254",
+        "fear": "15.077",
+        "happy": "0.006",
+        "sad": "7.283",
+        "surprise": "0.411",
+        "neutral": "26.673"
+      }
+    },
+    {
+      "frame": 107,
+      "time": "2025-07-12T19:15:50.514846",
+      "file": "webcam_000107.jpg",
+      "fps": 14.66,
+      "emotion": {
+        "angry": "37.391",
+        "disgust": "0.148",
+        "fear": "37.788",
+        "happy": "0.104",
+        "sad": "7.392",
+        "surprise": "0.904",
+        "neutral": "16.274"
+      }
+    },
+    {
+      "frame": 108,
+      "time": "2025-07-12T19:15:50.579252",
+      "file": "webcam_000108.jpg",
+      "fps": 17.28,
+      "emotion": {
+        "angry": "36.112",
+        "disgust": "0.048",
+        "fear": "45.095",
+        "happy": "0.214",
+        "sad": "3.873",
+        "surprise": "4.182",
+        "neutral": "10.478"
+      }
+    },
+    {
+      "frame": 109,
+      "time": "2025-07-12T19:15:50.648363",
+      "file": "webcam_000109.jpg",
+      "fps": 13.21,
+      "emotion": {
+        "angry": "21.857",
+        "disgust": "0.187",
+        "fear": "63.138",
+        "happy": "0.242",
+        "sad": "5.755",
+        "surprise": "3.261",
+        "neutral": "5.559"
+      }
+    },
+    {
+      "frame": 110,
+      "time": "2025-07-12T19:15:50.712032",
+      "file": "webcam_000110.jpg",
+      "fps": 15.77,
+      "emotion": {
+        "angry": "14.924",
+        "disgust": "0.016",
+        "fear": "54.445",
+        "happy": "0.210",
+        "sad": "4.040",
+        "surprise": "3.609",
+        "neutral": "22.757"
+      }
+    },
+    {
+      "frame": 111,
+      "time": "2025-07-12T19:15:50.780340",
+      "file": "webcam_000111.jpg",
+      "fps": 14.9,
+      "emotion": {
+        "angry": "39.384",
+        "disgust": "0.235",
+        "fear": "38.070",
+        "happy": "0.297",
+        "sad": "6.912",
+        "surprise": "2.263",
+        "neutral": "12.839"
+      }
+    },
+    {
+      "frame": 112,
+      "time": "2025-07-12T19:15:50.867275",
+      "file": "webcam_000112.jpg",
+      "fps": 12.46,
+      "emotion": {
+        "angry": "27.046",
+        "disgust": "0.034",
+        "fear": "36.080",
+        "happy": "0.123",
+        "sad": "4.054",
+        "surprise": "2.202",
+        "neutral": "30.461"
+      }
+    },
+    {
+      "frame": 113,
+      "time": "2025-07-12T19:15:50.934075",
+      "file": "webcam_000113.jpg",
+      "fps": 13.1,
+      "emotion": {
+        "angry": "11.114",
+        "disgust": "0.011",
+        "fear": "72.127",
+        "happy": "0.187",
+        "sad": "6.837",
+        "surprise": "1.999",
+        "neutral": "7.724"
+      }
+    },
+    {
+      "frame": 114,
+      "time": "2025-07-12T19:15:51.001439",
+      "file": "webcam_000114.jpg",
+      "fps": 14.83,
+      "emotion": {
+        "angry": "21.028",
+        "disgust": "0.033",
+        "fear": "43.755",
+        "happy": "0.098",
+        "sad": "10.332",
+        "surprise": "2.336",
+        "neutral": "22.418"
+      }
+    },
+    {
+      "frame": 115,
+      "time": "2025-07-12T19:15:51.066429",
+      "file": "webcam_000115.jpg",
+      "fps": 15.38,
+      "emotion": {
+        "angry": "14.893",
+        "disgust": "0.010",
+        "fear": "21.543",
+        "happy": "0.095",
+        "sad": "5.654",
+        "surprise": "0.927",
+        "neutral": "56.878"
+      }
+    },
+    {
+      "frame": 116,
+      "time": "2025-07-12T19:15:51.135546",
+      "file": "webcam_000116.jpg",
+      "fps": 14.6,
+      "emotion": {
+        "angry": "19.950",
+        "disgust": "0.008",
+        "fear": "33.665",
+        "happy": "0.031",
+        "sad": "7.721",
+        "surprise": "0.497",
+        "neutral": "38.128"
+      }
+    },
+    {
+      "frame": 117,
+      "time": "2025-07-12T19:15:51.199978",
+      "file": "webcam_000117.jpg",
+      "fps": 15.35,
+      "emotion": {
+        "angry": "0.166",
+        "disgust": "0.000",
+        "fear": "11.057",
+        "happy": "0.088",
+        "sad": "60.695",
+        "surprise": "0.001",
+        "neutral": "27.993"
+      }
+    },
+    {
+      "frame": 118,
+      "time": "2025-07-12T19:15:51.267673",
+      "file": "webcam_000118.jpg",
+      "fps": 14.73,
+      "emotion": {
+        "angry": "0.254",
+        "disgust": "0.000",
+        "fear": "13.025",
+        "happy": "0.033",
+        "sad": "48.273",
+        "surprise": "0.001",
+        "neutral": "38.414"
+      }
+    },
+    {
+      "frame": 119,
+      "time": "2025-07-12T19:15:51.333866",
+      "file": "webcam_000119.jpg",
+      "fps": 15.22,
+      "emotion": {
+        "angry": "0.929",
+        "disgust": "0.001",
+        "fear": "22.900",
+        "happy": "0.038",
+        "sad": "42.513",
+        "surprise": "0.003",
+        "neutral": "33.617"
+      }
+    },
+    {
+      "frame": 120,
+      "time": "2025-07-12T19:15:51.400348",
+      "file": "webcam_000120.jpg",
+      "fps": 15.2,
+      "emotion": {
+        "angry": "1.752",
+        "disgust": "0.001",
+        "fear": "5.776",
+        "happy": "0.019",
+        "sad": "59.173",
+        "surprise": "0.001",
+        "neutral": "33.278"
+      }
+    },
+    {
+      "frame": 121,
+      "time": "2025-07-12T19:15:51.465753",
+      "file": "webcam_000121.jpg",
+      "fps": 15.06,
+      "emotion": {
+        "angry": "1.523",
+        "disgust": "0.000",
+        "fear": "2.643",
+        "happy": "0.004",
+        "sad": "81.474",
+        "surprise": "0.000",
+        "neutral": "14.355"
+      }
+    },
+    {
+      "frame": 122,
+      "time": "2025-07-12T19:15:51.533392",
+      "file": "webcam_000122.jpg",
+      "fps": 14.81,
+      "emotion": {
+        "angry": "2.553",
+        "disgust": "0.002",
+        "fear": "9.654",
+        "happy": "0.003",
+        "sad": "72.118",
+        "surprise": "0.000",
+        "neutral": "15.671"
+      }
+    },
+    {
+      "frame": 123,
+      "time": "2025-07-12T19:15:51.600449",
+      "file": "webcam_000123.jpg",
+      "fps": 15.07,
+      "emotion": {
+        "angry": "0.621",
+        "disgust": "0.000",
+        "fear": "7.195",
+        "happy": "0.000",
+        "sad": "85.358",
+        "surprise": "0.000",
+        "neutral": "6.826"
+      }
+    },
+    {
+      "frame": 124,
+      "time": "2025-07-12T19:15:51.666764",
+      "file": "webcam_000124.jpg",
+      "fps": 14.96,
+      "emotion": {
+        "angry": "1.095",
+        "disgust": "0.000",
+        "fear": "23.366",
+        "happy": "0.000",
+        "sad": "58.256",
+        "surprise": "0.000",
+        "neutral": "17.282"
+      }
+    },
+    {
+      "frame": 125,
+      "time": "2025-07-12T19:15:51.734381",
+      "file": "webcam_000125.jpg",
+      "fps": 14.76,
+      "emotion": {
+        "angry": "0.991",
+        "disgust": "0.000",
+        "fear": "31.418",
+        "happy": "0.000",
+        "sad": "51.965",
+        "surprise": "0.000",
+        "neutral": "15.626"
+      }
+    },
+    {
+      "frame": 126,
+      "time": "2025-07-12T19:15:51.801461",
+      "file": "webcam_000126.jpg",
+      "fps": 15.1,
+      "emotion": {
+        "angry": "1.552",
+        "disgust": "0.000",
+        "fear": "23.265",
+        "happy": "0.000",
+        "sad": "66.370",
+        "surprise": "0.000",
+        "neutral": "8.812"
+      }
+    },
+    {
+      "frame": 127,
+      "time": "2025-07-12T19:15:51.867036",
+      "file": "webcam_000127.jpg",
+      "fps": 15.08,
+      "emotion": {
+        "angry": "0.634",
+        "disgust": "0.000",
+        "fear": "14.491",
+        "happy": "0.000",
+        "sad": "67.403",
+        "surprise": "0.000",
+        "neutral": "17.472"
+      }
+    },
+    {
+      "frame": 128,
+      "time": "2025-07-12T19:15:51.938793",
+      "file": "webcam_000128.jpg",
+      "fps": 14.09,
+      "emotion": {
+        "angry": "1.773",
+        "disgust": "0.000",
+        "fear": "8.507",
+        "happy": "0.000",
+        "sad": "64.782",
+        "surprise": "0.000",
+        "neutral": "24.937"
+      }
+    },
+    {
+      "frame": 129,
+      "time": "2025-07-12T19:15:52.011350",
+      "file": "webcam_000129.jpg",
+      "fps": 13.99,
+      "emotion": {
+        "angry": "0.739",
+        "disgust": "0.000",
+        "fear": "7.880",
+        "happy": "0.000",
+        "sad": "71.570",
+        "surprise": "0.000",
+        "neutral": "19.811"
+      }
+    },
+    {
+      "frame": 130,
+      "time": "2025-07-12T19:15:52.089307",
+      "file": "webcam_000130.jpg",
+      "fps": 16.26,
+      "emotion": {
+        "angry": "1.380",
+        "disgust": "0.000",
+        "fear": "9.718",
+        "happy": "0.000",
+        "sad": "61.652",
+        "surprise": "0.000",
+        "neutral": "27.251"
+      }
+    },
+    {
+      "frame": 131,
+      "time": "2025-07-12T19:15:52.138281",
+      "file": "webcam_000131.jpg",
+      "fps": 14.87,
+      "emotion": {
+        "angry": "1.780",
+        "disgust": "0.000",
+        "fear": "12.541",
+        "happy": "0.000",
+        "sad": "52.564",
+        "surprise": "0.000",
+        "neutral": "33.115"
+      }
+    },
+    {
+      "frame": 132,
+      "time": "2025-07-12T19:15:52.202813",
+      "file": "webcam_000132.jpg",
+      "fps": 15.43,
+      "emotion": {
+        "angry": "1.379",
+        "disgust": "0.000",
+        "fear": "10.791",
+        "happy": "0.000",
+        "sad": "55.438",
+        "surprise": "0.000",
+        "neutral": "32.392"
+      }
+    },
+    {
+      "frame": 133,
+      "time": "2025-07-12T19:15:52.267239",
+      "file": "webcam_000133.jpg",
+      "fps": 15.62,
+      "emotion": {
+        "angry": "1.948",
+        "disgust": "0.000",
+        "fear": "15.143",
+        "happy": "0.000",
+        "sad": "44.616",
+        "surprise": "0.000",
+        "neutral": "38.293"
+      }
+    },
+    {
+      "frame": 134,
+      "time": "2025-07-12T19:15:52.334449",
+      "file": "webcam_000134.jpg",
+      "fps": 14.79,
+      "emotion": {
+        "angry": "2.454",
+        "disgust": "0.000",
+        "fear": "12.430",
+        "happy": "0.000",
+        "sad": "45.330",
+        "surprise": "0.001",
+        "neutral": "39.784"
+      }
+    },
+    {
+      "frame": 135,
+      "time": "2025-07-12T19:15:52.400222",
+      "file": "webcam_000135.jpg",
+      "fps": 15.21,
+      "emotion": {
+        "angry": "1.223",
+        "disgust": "0.000",
+        "fear": "15.575",
+        "happy": "0.000",
+        "sad": "49.988",
+        "surprise": "0.000",
+        "neutral": "33.214"
+      }
+    },
+    {
+      "frame": 136,
+      "time": "2025-07-12T19:15:52.468792",
+      "file": "webcam_000136.jpg",
+      "fps": 14.59,
+      "emotion": {
+        "angry": "4.159",
+        "disgust": "0.000",
+        "fear": "16.415",
+        "happy": "0.000",
+        "sad": "45.497",
+        "surprise": "0.000",
+        "neutral": "33.927"
+      }
+    },
+    {
+      "frame": 137,
+      "time": "2025-07-12T19:15:52.538061",
+      "file": "webcam_000137.jpg",
+      "fps": 14.47,
+      "emotion": {
+        "angry": "2.012",
+        "disgust": "0.000",
+        "fear": "15.310",
+        "happy": "0.000",
+        "sad": "56.278",
+        "surprise": "0.000",
+        "neutral": "26.399"
+      }
+    },
+    {
+      "frame": 138,
+      "time": "2025-07-12T19:15:52.601875",
+      "file": "webcam_000138.jpg",
+      "fps": 15.72,
+      "emotion": {
+        "angry": "2.383",
+        "disgust": "0.000",
+        "fear": "19.819",
+        "happy": "0.000",
+        "sad": "58.336",
+        "surprise": "0.000",
+        "neutral": "19.463"
+      }
+    },
+    {
+      "frame": 139,
+      "time": "2025-07-12T19:15:52.668515",
+      "file": "webcam_000139.jpg",
+      "fps": 14.92,
+      "emotion": {
+        "angry": "2.175",
+        "disgust": "0.000",
+        "fear": "18.929",
+        "happy": "0.000",
+        "sad": "52.616",
+        "surprise": "0.000",
+        "neutral": "26.280"
+      }
+    },
+    {
+      "frame": 140,
+      "time": "2025-07-12T19:15:52.738204",
+      "file": "webcam_000140.jpg",
+      "fps": 14.49,
+      "emotion": {
+        "angry": "1.757",
+        "disgust": "0.000",
+        "fear": "19.492",
+        "happy": "0.000",
+        "sad": "54.969",
+        "surprise": "0.000",
+        "neutral": "23.782"
+      }
+    },
+    {
+      "frame": 141,
+      "time": "2025-07-12T19:15:52.803053",
+      "file": "webcam_000141.jpg",
+      "fps": 15.28,
+      "emotion": {
+        "angry": "3.058",
+        "disgust": "0.000",
+        "fear": "16.008",
+        "happy": "0.000",
+        "sad": "51.712",
+        "surprise": "0.000",
+        "neutral": "29.221"
+      }
+    },
+    {
+      "frame": 142,
+      "time": "2025-07-12T19:15:52.870764",
+      "file": "webcam_000142.jpg",
+      "fps": 14.81,
+      "emotion": {
+        "angry": "1.989",
+        "disgust": "0.000",
+        "fear": "14.003",
+        "happy": "0.000",
+        "sad": "48.590",
+        "surprise": "0.000",
+        "neutral": "35.418"
+      }
+    },
+    {
+      "frame": 143,
+      "time": "2025-07-12T19:15:52.939157",
+      "file": "webcam_000143.jpg",
+      "fps": 14.74,
+      "emotion": {
+        "angry": "3.206",
+        "disgust": "0.000",
+        "fear": "15.491",
+        "happy": "0.000",
+        "sad": "56.522",
+        "surprise": "0.000",
+        "neutral": "24.781"
+      }
+    },
+    {
+      "frame": 144,
+      "time": "2025-07-12T19:15:53.002631",
+      "file": "webcam_000144.jpg",
+      "fps": 15.61,
+      "emotion": {
+        "angry": "1.599",
+        "disgust": "0.000",
+        "fear": "7.244",
+        "happy": "0.000",
+        "sad": "68.666",
+        "surprise": "0.000",
+        "neutral": "22.491"
+      }
+    },
+    {
+      "frame": 145,
+      "time": "2025-07-12T19:15:53.076084",
+      "file": "webcam_000145.jpg",
+      "fps": 14.45,
+      "emotion": {
+        "angry": "2.527",
+        "disgust": "0.000",
+        "fear": "16.311",
+        "happy": "0.000",
+        "sad": "42.257",
+        "surprise": "0.000",
+        "neutral": "38.905"
+      }
+    },
+    {
+      "frame": 146,
+      "time": "2025-07-12T19:15:53.147195",
+      "file": "webcam_000146.jpg",
+      "fps": 13.57,
+      "emotion": {
+        "angry": "4.453",
+        "disgust": "0.000",
+        "fear": "16.809",
+        "happy": "0.000",
+        "sad": "38.767",
+        "surprise": "0.000",
+        "neutral": "39.970"
+      }
+    },
+    {
+      "frame": 147,
+      "time": "2025-07-12T19:15:53.213544",
+      "file": "webcam_000147.jpg",
+      "fps": 15.11,
+      "emotion": {
+        "angry": "2.051",
+        "disgust": "0.000",
+        "fear": "17.435",
+        "happy": "0.000",
+        "sad": "35.927",
+        "surprise": "0.000",
+        "neutral": "44.585"
+      }
+    },
+    {
+      "frame": 148,
+      "time": "2025-07-12T19:15:53.285442",
+      "file": "webcam_000148.jpg",
+      "fps": 13.92,
+      "emotion": {
+        "angry": "1.930",
+        "disgust": "0.000",
+        "fear": "21.887",
+        "happy": "0.000",
+        "sad": "19.031",
+        "surprise": "0.001",
+        "neutral": "57.151"
+      }
+    },
+    {
+      "frame": 149,
+      "time": "2025-07-12T19:15:53.347298",
+      "file": "webcam_000149.jpg",
+      "fps": 17.53,
+      "emotion": {
+        "angry": "1.649",
+        "disgust": "0.000",
+        "fear": "31.420",
+        "happy": "0.000",
+        "sad": "11.897",
+        "surprise": "0.001",
+        "neutral": "55.032"
+      }
+    },
+    {
+      "frame": 150,
+      "time": "2025-07-12T19:15:53.423565",
+      "file": "webcam_000150.jpg",
+      "fps": 15.31,
+      "emotion": {
+        "angry": "2.376",
+        "disgust": "0.000",
+        "fear": "35.023",
+        "happy": "0.000",
+        "sad": "6.693",
+        "surprise": "0.006",
+        "neutral": "55.902"
+      }
+    },
+    {
+      "frame": 151,
+      "time": "2025-07-12T19:15:53.468401",
+      "file": "webcam_000151.jpg",
+      "fps": 16.02,
+      "emotion": {
+        "angry": "1.284",
+        "disgust": "0.000",
+        "fear": "42.010",
+        "happy": "0.000",
+        "sad": "4.472",
+        "surprise": "0.006",
+        "neutral": "52.229"
+      }
+    },
+    {
+      "frame": 152,
+      "time": "2025-07-12T19:15:53.515505",
+      "file": "webcam_000152.jpg",
+      "fps": 22.07,
+      "emotion": {
+        "angry": "4.100",
+        "disgust": "0.000",
+        "fear": "34.182",
+        "happy": "0.001",
+        "sad": "6.743",
+        "surprise": "0.005",
+        "neutral": "54.969"
+      }
+    },
+    {
+      "frame": 153,
+      "time": "2025-07-12T19:15:53.583939",
+      "file": "webcam_000153.jpg",
+      "fps": 15.61,
+      "emotion": {
+        "angry": "0.993",
+        "disgust": "0.000",
+        "fear": "26.605",
+        "happy": "0.000",
+        "sad": "4.066",
+        "surprise": "0.005",
+        "neutral": "68.331"
+      }
+    },
+    {
+      "frame": 154,
+      "time": "2025-07-12T19:15:53.647631",
+      "file": "webcam_000154.jpg",
+      "fps": 14.87,
+      "emotion": {
+        "angry": "1.980",
+        "disgust": "0.000",
+        "fear": "40.034",
+        "happy": "0.001",
+        "sad": "3.774",
+        "surprise": "0.010",
+        "neutral": "54.201"
+      }
+    },
+    {
+      "frame": 155,
+      "time": "2025-07-12T19:15:53.709528",
+      "file": "webcam_000155.jpg",
+      "fps": 15.77,
+      "emotion": {
+        "angry": "1.079",
+        "disgust": "0.000",
+        "fear": "40.645",
+        "happy": "0.000",
+        "sad": "4.264",
+        "surprise": "0.013",
+        "neutral": "53.998"
+      }
+    },
+    {
+      "frame": 156,
+      "time": "2025-07-12T19:15:53.769359",
+      "file": "webcam_000156.jpg",
+      "fps": 16.81,
+      "emotion": {
+        "angry": "2.767",
+        "disgust": "0.000",
+        "fear": "41.692",
+        "happy": "0.000",
+        "sad": "5.176",
+        "surprise": "0.009",
+        "neutral": "50.355"
+      }
+    },
+    {
+      "frame": 157,
+      "time": "2025-07-12T19:15:53.834566",
+      "file": "webcam_000157.jpg",
+      "fps": 15.03,
+      "emotion": {
+        "angry": "5.358",
+        "disgust": "0.000",
+        "fear": "49.870",
+        "happy": "0.001",
+        "sad": "5.624",
+        "surprise": "0.005",
+        "neutral": "39.143"
+      }
+    },
+    {
+      "frame": 158,
+      "time": "2025-07-12T19:15:53.899669",
+      "file": "webcam_000158.jpg",
+      "fps": 15.31,
+      "emotion": {
+        "angry": "3.333",
+        "disgust": "0.000",
+        "fear": "41.551",
+        "happy": "0.000",
+        "sad": "5.897",
+        "surprise": "0.010",
+        "neutral": "49.208"
+      }
+    },
+    {
+      "frame": 159,
+      "time": "2025-07-12T19:15:53.966664",
+      "file": "webcam_000159.jpg",
+      "fps": 14.91,
+      "emotion": {
+        "angry": "4.248",
+        "disgust": "0.000",
+        "fear": "39.274",
+        "happy": "0.001",
+        "sad": "5.346",
+        "surprise": "0.005",
+        "neutral": "51.126"
+      }
+    },
+    {
+      "frame": 160,
+      "time": "2025-07-12T19:15:54.034350",
+      "file": "webcam_000160.jpg",
+      "fps": 14.85,
+      "emotion": {
+        "angry": "4.151",
+        "disgust": "0.000",
+        "fear": "34.600",
+        "happy": "0.001",
+        "sad": "10.817",
+        "surprise": "0.004",
+        "neutral": "50.427"
+      }
+    },
+    {
+      "frame": 161,
+      "time": "2025-07-12T19:15:54.109591",
+      "file": "webcam_000161.jpg",
+      "fps": 14.85,
+      "emotion": {
+        "angry": "5.041",
+        "disgust": "0.000",
+        "fear": "30.208",
+        "happy": "0.001",
+        "sad": "11.336",
+        "surprise": "0.004",
+        "neutral": "53.409"
+      }
+    },
+    {
+      "frame": 162,
+      "time": "2025-07-12T19:15:54.177004",
+      "file": "webcam_000162.jpg",
+      "fps": 13.39,
+      "emotion": {
+        "angry": "9.391",
+        "disgust": "0.000",
+        "fear": "29.388",
+        "happy": "0.001",
+        "sad": "11.414",
+        "surprise": "0.004",
+        "neutral": "49.802"
+      }
+    },
+    {
+      "frame": 163,
+      "time": "2025-07-12T19:15:54.256612",
+      "file": "webcam_000163.jpg",
+      "fps": 13.83,
+      "emotion": {
+        "angry": "6.002",
+        "disgust": "0.000",
+        "fear": "33.221",
+        "happy": "0.001",
+        "sad": "10.816",
+        "surprise": "0.005",
+        "neutral": "49.955"
+      }
+    },
+    {
+      "frame": 164,
+      "time": "2025-07-12T19:15:54.311920",
+      "file": "webcam_000164.jpg",
+      "fps": 17.46,
+      "emotion": {
+        "angry": "7.724",
+        "disgust": "0.000",
+        "fear": "38.809",
+        "happy": "0.001",
+        "sad": "11.285",
+        "surprise": "0.003",
+        "neutral": "42.177"
+      }
+    },
+    {
+      "frame": 165,
+      "time": "2025-07-12T19:15:54.383883",
+      "file": "webcam_000165.jpg",
+      "fps": 12.99,
+      "emotion": {
+        "angry": "6.170",
+        "disgust": "0.000",
+        "fear": "31.493",
+        "happy": "0.001",
+        "sad": "12.346",
+        "surprise": "0.002",
+        "neutral": "49.989"
+      }
+    },
+    {
+      "frame": 166,
+      "time": "2025-07-12T19:15:54.452656",
+      "file": "webcam_000166.jpg",
+      "fps": 14.57,
+      "emotion": {
+        "angry": "8.455",
+        "disgust": "0.000",
+        "fear": "33.411",
+        "happy": "0.001",
+        "sad": "12.642",
+        "surprise": "0.002",
+        "neutral": "45.489"
+      }
+    },
+    {
+      "frame": 167,
+      "time": "2025-07-12T19:15:54.512719",
+      "file": "webcam_000167.jpg",
+      "fps": 19.0,
+      "emotion": {
+        "angry": "3.334",
+        "disgust": "0.000",
+        "fear": "34.351",
+        "happy": "0.001",
+        "sad": "18.459",
+        "surprise": "0.001",
+        "neutral": "43.854"
+      }
+    },
+    {
+      "frame": 168,
+      "time": "2025-07-12T19:15:54.579722",
+      "file": "webcam_000168.jpg",
+      "fps": 14.79,
+      "emotion": {
+        "angry": "6.425",
+        "disgust": "0.001",
+        "fear": "40.450",
+        "happy": "0.001",
+        "sad": "10.786",
+        "surprise": "0.002",
+        "neutral": "42.335"
+      }
+    },
+    {
+      "frame": 169,
+      "time": "2025-07-12T19:15:54.646833",
+      "file": "webcam_000169.jpg",
+      "fps": 13.35,
+      "emotion": {
+        "angry": "5.342",
+        "disgust": "0.000",
+        "fear": "35.347",
+        "happy": "0.001",
+        "sad": "17.957",
+        "surprise": "0.002",
+        "neutral": "41.352"
+      }
+    },
+    {
+      "frame": 170,
+      "time": "2025-07-12T19:15:54.716545",
+      "file": "webcam_000170.jpg",
+      "fps": 14.59,
+      "emotion": {
+        "angry": "7.469",
+        "disgust": "0.000",
+        "fear": "34.073",
+        "happy": "0.001",
+        "sad": "15.466",
+        "surprise": "0.002",
+        "neutral": "42.988"
+      }
+    },
+    {
+      "frame": 171,
+      "time": "2025-07-12T19:15:54.783380",
+      "file": "webcam_000171.jpg",
+      "fps": 15.05,
+      "emotion": {
+        "angry": "5.099",
+        "disgust": "0.000",
+        "fear": "47.563",
+        "happy": "0.001",
+        "sad": "7.801",
+        "surprise": "0.005",
+        "neutral": "39.531"
+      }
+    },
+    {
+      "frame": 172,
+      "time": "2025-07-12T19:15:54.851635",
+      "file": "webcam_000172.jpg",
+      "fps": 14.71,
+      "emotion": {
+        "angry": "5.721",
+        "disgust": "0.000",
+        "fear": "42.861",
+        "happy": "0.001",
+        "sad": "7.274",
+        "surprise": "0.009",
+        "neutral": "44.133"
+      }
+    },
+    {
+      "frame": 173,
+      "time": "2025-07-12T19:15:54.911701",
+      "file": "webcam_000173.jpg",
+      "fps": 16.46,
+      "emotion": {
+        "angry": "2.709",
+        "disgust": "0.000",
+        "fear": "42.867",
+        "happy": "0.001",
+        "sad": "7.269",
+        "surprise": "0.004",
+        "neutral": "47.151"
+      }
+    },
+    {
+      "frame": 174,
+      "time": "2025-07-12T19:15:54.977581",
+      "file": "webcam_000174.jpg",
+      "fps": 15.2,
+      "emotion": {
+        "angry": "4.048",
+        "disgust": "0.000",
+        "fear": "28.520",
+        "happy": "0.000",
+        "sad": "28.490",
+        "surprise": "0.000",
+        "neutral": "38.941"
+      }
+    },
+    {
+      "frame": 175,
+      "time": "2025-07-12T19:15:55.038931",
+      "file": "webcam_000175.jpg",
+      "fps": 16.22,
+      "emotion": {
+        "angry": "7.000",
+        "disgust": "0.000",
+        "fear": "24.266",
+        "happy": "0.001",
+        "sad": "16.701",
+        "surprise": "0.001",
+        "neutral": "52.031"
+      }
+    },
+    {
+      "frame": 176,
+      "time": "2025-07-12T19:15:55.104432",
+      "file": "webcam_000176.jpg",
+      "fps": 15.25,
+      "emotion": {
+        "angry": "9.111",
+        "disgust": "0.000",
+        "fear": "22.264",
+        "happy": "0.000",
+        "sad": "17.973",
+        "surprise": "0.002",
+        "neutral": "50.649"
+      }
+    },
+    {
+      "frame": 177,
+      "time": "2025-07-12T19:15:55.174035",
+      "file": "webcam_000177.jpg",
+      "fps": 14.44,
+      "emotion": {
+        "angry": "4.447",
+        "disgust": "0.000",
+        "fear": "25.551",
+        "happy": "0.000",
+        "sad": "40.374",
+        "surprise": "0.001",
+        "neutral": "29.628"
+      }
+    },
+    {
+      "frame": 178,
+      "time": "2025-07-12T19:15:55.238359",
+      "file": "webcam_000178.jpg",
+      "fps": 15.39,
+      "emotion": {
+        "angry": "5.875",
+        "disgust": "0.000",
+        "fear": "32.264",
+        "happy": "0.000",
+        "sad": "36.722",
+        "surprise": "0.000",
+        "neutral": "25.138"
+      }
+    },
+    {
+      "frame": 179,
+      "time": "2025-07-12T19:15:55.303227",
+      "file": "webcam_000179.jpg",
+      "fps": 15.3,
+      "emotion": {
+        "angry": "5.799",
+        "disgust": "0.000",
+        "fear": "27.798",
+        "happy": "0.000",
+        "sad": "44.194",
+        "surprise": "0.000",
+        "neutral": "22.208"
+      }
+    },
+    {
+      "frame": 180,
+      "time": "2025-07-12T19:15:55.368935",
+      "file": "webcam_000180.jpg",
+      "fps": 15.09,
+      "emotion": {
+        "angry": "10.397",
+        "disgust": "0.000",
+        "fear": "32.883",
+        "happy": "0.000",
+        "sad": "28.268",
+        "surprise": "0.000",
+        "neutral": "28.451"
+      }
+    },
+    {
+      "frame": 181,
+      "time": "2025-07-12T19:15:55.440575",
+      "file": "webcam_000181.jpg",
+      "fps": 14.0,
+      "emotion": {
+        "angry": "9.193",
+        "disgust": "0.001",
+        "fear": "29.172",
+        "happy": "0.000",
+        "sad": "32.591",
+        "surprise": "0.000",
+        "neutral": "29.044"
+      }
+    },
+    {
+      "frame": 182,
+      "time": "2025-07-12T19:15:55.504003",
+      "file": "webcam_000182.jpg",
+      "fps": 15.73,
+      "emotion": {
+        "angry": "7.308",
+        "disgust": "0.000",
+        "fear": "32.391",
+        "happy": "0.000",
+        "sad": "45.003",
+        "surprise": "0.000",
+        "neutral": "15.297"
+      }
+    },
+    {
+      "frame": 183,
+      "time": "2025-07-12T19:15:55.571934",
+      "file": "webcam_000183.jpg",
+      "fps": 14.79,
+      "emotion": {
+        "angry": "7.491",
+        "disgust": "0.001",
+        "fear": "31.497",
+        "happy": "0.000",
+        "sad": "40.380",
+        "surprise": "0.000",
+        "neutral": "20.631"
+      }
+    },
+    {
+      "frame": 184,
+      "time": "2025-07-12T19:15:55.641257",
+      "file": "webcam_000184.jpg",
+      "fps": 14.38,
+      "emotion": {
+        "angry": "6.750",
+        "disgust": "0.000",
+        "fear": "26.854",
+        "happy": "0.000",
+        "sad": "45.700",
+        "surprise": "0.000",
+        "neutral": "20.695"
+      }
+    },
+    {
+      "frame": 185,
+      "time": "2025-07-12T19:15:55.711882",
+      "file": "webcam_000185.jpg",
+      "fps": 15.42,
+      "emotion": {
+        "angry": "7.691",
+        "disgust": "0.001",
+        "fear": "35.593",
+        "happy": "0.000",
+        "sad": "36.803",
+        "surprise": "0.000",
+        "neutral": "19.912"
+      }
+    },
+    {
+      "frame": 186,
+      "time": "2025-07-12T19:15:55.777895",
+      "file": "webcam_000186.jpg",
+      "fps": 14.09,
+      "emotion": {
+        "angry": "8.105",
+        "disgust": "0.002",
+        "fear": "42.195",
+        "happy": "0.001",
+        "sad": "29.149",
+        "surprise": "0.000",
+        "neutral": "20.548"
+      }
+    },
+    {
+      "frame": 187,
+      "time": "2025-07-12T19:15:55.841919",
+      "file": "webcam_000187.jpg",
+      "fps": 16.51,
+      "emotion": {
+        "angry": "3.908",
+        "disgust": "0.001",
+        "fear": "35.606",
+        "happy": "0.000",
+        "sad": "41.969",
+        "surprise": "0.000",
+        "neutral": "18.516"
+      }
+    },
+    {
+      "frame": 188,
+      "time": "2025-07-12T19:15:55.909179",
+      "file": "webcam_000188.jpg",
+      "fps": 14.04,
+      "emotion": {
+        "angry": "6.413",
+        "disgust": "0.001",
+        "fear": "41.206",
+        "happy": "0.001",
+        "sad": "24.885",
+        "surprise": "0.000",
+        "neutral": "27.493"
+      }
+    }
+  ],
+  "screen": [
+    {
+      "frame": 0,
+      "time": "2025-07-12T19:15:42.079781",
+      "file": "screen_000000.jpg",
+      "fps": 0.0
+    },
+    {
+      "frame": 1,
+      "time": "2025-07-12T19:15:42.134813",
+      "file": "screen_000001.jpg",
+      "fps": 16.98
+    },
+    {
+      "frame": 2,
+      "time": "2025-07-12T19:15:42.197150",
+      "file": "screen_000002.jpg",
+      "fps": 16.14
+    },
+    {
+      "frame": 3,
+      "time": "2025-07-12T19:15:42.258583",
+      "file": "screen_000003.jpg",
+      "fps": 16.37
+    },
+    {
+      "frame": 4,
+      "time": "2025-07-12T19:15:42.324984",
+      "file": "screen_000004.jpg",
+      "fps": 15.5
+    },
+    {
+      "frame": 5,
+      "time": "2025-07-12T19:15:42.391227",
+      "file": "screen_000005.jpg",
+      "fps": 14.78
+    },
+    {
+      "frame": 6,
+      "time": "2025-07-12T19:15:42.457259",
+      "file": "screen_000006.jpg",
+      "fps": 15.16
+    },
+    {
+      "frame": 7,
+      "time": "2025-07-12T19:15:42.527931",
+      "file": "screen_000007.jpg",
+      "fps": 14.29
+    },
+    {
+      "frame": 8,
+      "time": "2025-07-12T19:15:42.597128",
+      "file": "screen_000008.jpg",
+      "fps": 14.35
+    },
+    {
+      "frame": 9,
+      "time": "2025-07-12T19:15:42.663822",
+      "file": "screen_000009.jpg",
+      "fps": 15.19
+    },
+    {
+      "frame": 10,
+      "time": "2025-07-12T19:15:42.735307",
+      "file": "screen_000010.jpg",
+      "fps": 13.87
+    },
+    {
+      "frame": 11,
+      "time": "2025-07-12T19:15:42.800603",
+      "file": "screen_000011.jpg",
+      "fps": 15.37
+    },
+    {
+      "frame": 12,
+      "time": "2025-07-12T19:15:42.861786",
+      "file": "screen_000012.jpg",
+      "fps": 16.17
+    },
+    {
+      "frame": 13,
+      "time": "2025-07-12T19:15:42.920715",
+      "file": "screen_000013.jpg",
+      "fps": 17.01
+    },
+    {
+      "frame": 14,
+      "time": "2025-07-12T19:15:42.987767",
+      "file": "screen_000014.jpg",
+      "fps": 14.77
+    },
+    {
+      "frame": 15,
+      "time": "2025-07-12T19:15:43.110576",
+      "file": "screen_000015.jpg",
+      "fps": 8.2
+    },
+    {
+      "frame": 16,
+      "time": "2025-07-12T19:15:43.165847",
+      "file": "screen_000016.jpg",
+      "fps": 17.98
+    },
+    {
+      "frame": 17,
+      "time": "2025-07-12T19:15:43.223211",
+      "file": "screen_000017.jpg",
+      "fps": 17.44
+    },
+    {
+      "frame": 18,
+      "time": "2025-07-12T19:15:43.296207",
+      "file": "screen_000018.jpg",
+      "fps": 13.67
+    },
+    {
+      "frame": 19,
+      "time": "2025-07-12T19:15:43.362512",
+      "file": "screen_000019.jpg",
+      "fps": 15.07
+    },
+    {
+      "frame": 20,
+      "time": "2025-07-12T19:15:43.434945",
+      "file": "screen_000020.jpg",
+      "fps": 13.79
+    },
+    {
+      "frame": 21,
+      "time": "2025-07-12T19:15:43.507343",
+      "file": "screen_000021.jpg",
+      "fps": 13.73
+    },
+    {
+      "frame": 22,
+      "time": "2025-07-12T19:15:43.565372",
+      "file": "screen_000022.jpg",
+      "fps": 17.27
+    },
+    {
+      "frame": 23,
+      "time": "2025-07-12T19:15:43.628578",
+      "file": "screen_000023.jpg",
+      "fps": 15.95
+    },
+    {
+      "frame": 24,
+      "time": "2025-07-12T19:15:43.689162",
+      "file": "screen_000024.jpg",
+      "fps": 16.34
+    },
+    {
+      "frame": 25,
+      "time": "2025-07-12T19:15:43.748169",
+      "file": "screen_000025.jpg",
+      "fps": 16.95
+    },
+    {
+      "frame": 26,
+      "time": "2025-07-12T19:15:43.813021",
+      "file": "screen_000026.jpg",
+      "fps": 15.42
+    },
+    {
+      "frame": 27,
+      "time": "2025-07-12T19:15:43.867102",
+      "file": "screen_000027.jpg",
+      "fps": 18.9
+    },
+    {
+      "frame": 28,
+      "time": "2025-07-12T19:15:43.928398",
+      "file": "screen_000028.jpg",
+      "fps": 16.1
+    },
+    {
+      "frame": 29,
+      "time": "2025-07-12T19:15:44.002065",
+      "file": "screen_000029.jpg",
+      "fps": 13.58
+    },
+    {
+      "frame": 30,
+      "time": "2025-07-12T19:15:44.082768",
+      "file": "screen_000030.jpg",
+      "fps": 12.3
+    },
+    {
+      "frame": 31,
+      "time": "2025-07-12T19:15:44.134322",
+      "file": "screen_000031.jpg",
+      "fps": 19.56
+    },
+    {
+      "frame": 32,
+      "time": "2025-07-12T19:15:44.189651",
+      "file": "screen_000032.jpg",
+      "fps": 17.89
+    },
+    {
+      "frame": 33,
+      "time": "2025-07-12T19:15:44.250069",
+      "file": "screen_000033.jpg",
+      "fps": 16.67
+    },
+    {
+      "frame": 34,
+      "time": "2025-07-12T19:15:44.320327",
+      "file": "screen_000034.jpg",
+      "fps": 14.29
+    },
+    {
+      "frame": 35,
+      "time": "2025-07-12T19:15:44.381134",
+      "file": "screen_000035.jpg",
+      "fps": 16.47
+    },
+    {
+      "frame": 36,
+      "time": "2025-07-12T19:15:44.450813",
+      "file": "screen_000036.jpg",
+      "fps": 14.3
+    },
+    {
+      "frame": 37,
+      "time": "2025-07-12T19:15:44.511515",
+      "file": "screen_000037.jpg",
+      "fps": 16.37
+    },
+    {
+      "frame": 38,
+      "time": "2025-07-12T19:15:44.576314",
+      "file": "screen_000038.jpg",
+      "fps": 15.43
+    },
+    {
+      "frame": 39,
+      "time": "2025-07-12T19:15:44.639318",
+      "file": "screen_000039.jpg",
+      "fps": 16.23
+    },
+    {
+      "frame": 40,
+      "time": "2025-07-12T19:15:44.694334",
+      "file": "screen_000040.jpg",
+      "fps": 17.77
+    },
+    {
+      "frame": 41,
+      "time": "2025-07-12T19:15:44.759977",
+      "file": "screen_000041.jpg",
+      "fps": 15.21
+    },
+    {
+      "frame": 42,
+      "time": "2025-07-12T19:15:44.823762",
+      "file": "screen_000042.jpg",
+      "fps": 15.71
+    },
+    {
+      "frame": 43,
+      "time": "2025-07-12T19:15:44.893548",
+      "file": "screen_000043.jpg",
+      "fps": 14.34
+    },
+    {
+      "frame": 44,
+      "time": "2025-07-12T19:15:44.965867",
+      "file": "screen_000044.jpg",
+      "fps": 13.96
+    },
+    {
+      "frame": 45,
+      "time": "2025-07-12T19:15:45.028706",
+      "file": "screen_000045.jpg",
+      "fps": 16.15
+    },
+    {
+      "frame": 46,
+      "time": "2025-07-12T19:15:45.112555",
+      "file": "screen_000046.jpg",
+      "fps": 11.79
+    },
+    {
+      "frame": 47,
+      "time": "2025-07-12T19:15:45.175198",
+      "file": "screen_000047.jpg",
+      "fps": 15.94
+    },
+    {
+      "frame": 48,
+      "time": "2025-07-12T19:15:45.237087",
+      "file": "screen_000048.jpg",
+      "fps": 15.98
+    },
+    {
+      "frame": 49,
+      "time": "2025-07-12T19:15:45.300935",
+      "file": "screen_000049.jpg",
+      "fps": 15.67
+    },
+    {
+      "frame": 50,
+      "time": "2025-07-12T19:15:45.365014",
+      "file": "screen_000050.jpg",
+      "fps": 15.7
+    },
+    {
+      "frame": 51,
+      "time": "2025-07-12T19:15:45.424704",
+      "file": "screen_000051.jpg",
+      "fps": 16.65
+    },
+    {
+      "frame": 52,
+      "time": "2025-07-12T19:15:45.485167",
+      "file": "screen_000052.jpg",
+      "fps": 16.62
+    },
+    {
+      "frame": 53,
+      "time": "2025-07-12T19:15:45.540230",
+      "file": "screen_000053.jpg",
+      "fps": 17.98
+    },
+    {
+      "frame": 54,
+      "time": "2025-07-12T19:15:45.596731",
+      "file": "screen_000054.jpg",
+      "fps": 17.68
+    },
+    {
+      "frame": 55,
+      "time": "2025-07-12T19:15:45.657344",
+      "file": "screen_000055.jpg",
+      "fps": 16.54
+    },
+    {
+      "frame": 56,
+      "time": "2025-07-12T19:15:45.716123",
+      "file": "screen_000056.jpg",
+      "fps": 17.07
+    },
+    {
+      "frame": 57,
+      "time": "2025-07-12T19:15:45.780018",
+      "file": "screen_000057.jpg",
+      "fps": 15.61
+    },
+    {
+      "frame": 58,
+      "time": "2025-07-12T19:15:45.849815",
+      "file": "screen_000058.jpg",
+      "fps": 14.39
+    },
+    {
+      "frame": 59,
+      "time": "2025-07-12T19:15:45.917498",
+      "file": "screen_000059.jpg",
+      "fps": 14.79
+    },
+    {
+      "frame": 60,
+      "time": "2025-07-12T19:15:45.978377",
+      "file": "screen_000060.jpg",
+      "fps": 16.47
+    },
+    {
+      "frame": 61,
+      "time": "2025-07-12T19:15:46.041018",
+      "file": "screen_000061.jpg",
+      "fps": 15.92
+    },
+    {
+      "frame": 62,
+      "time": "2025-07-12T19:15:46.105843",
+      "file": "screen_000062.jpg",
+      "fps": 15.4
+    },
+    {
+      "frame": 63,
+      "time": "2025-07-12T19:15:46.167116",
+      "file": "screen_000063.jpg",
+      "fps": 16.31
+    },
+    {
+      "frame": 64,
+      "time": "2025-07-12T19:15:46.235642",
+      "file": "screen_000064.jpg",
+      "fps": 15.89
+    },
+    {
+      "frame": 65,
+      "time": "2025-07-12T19:15:46.299667",
+      "file": "screen_000065.jpg",
+      "fps": 14.54
+    },
+    {
+      "frame": 66,
+      "time": "2025-07-12T19:15:46.364446",
+      "file": "screen_000066.jpg",
+      "fps": 15.36
+    },
+    {
+      "frame": 67,
+      "time": "2025-07-12T19:15:46.429307",
+      "file": "screen_000067.jpg",
+      "fps": 15.58
+    },
+    {
+      "frame": 68,
+      "time": "2025-07-12T19:15:46.491889",
+      "file": "screen_000068.jpg",
+      "fps": 15.73
+    },
+    {
+      "frame": 69,
+      "time": "2025-07-12T19:15:46.552471",
+      "file": "screen_000069.jpg",
+      "fps": 16.6
+    },
+    {
+      "frame": 70,
+      "time": "2025-07-12T19:15:46.613437",
+      "file": "screen_000070.jpg",
+      "fps": 16.22
+    },
+    {
+      "frame": 71,
+      "time": "2025-07-12T19:15:46.678695",
+      "file": "screen_000071.jpg",
+      "fps": 15.3
+    },
+    {
+      "frame": 72,
+      "time": "2025-07-12T19:15:46.740496",
+      "file": "screen_000072.jpg",
+      "fps": 16.16
+    },
+    {
+      "frame": 73,
+      "time": "2025-07-12T19:15:46.802607",
+      "file": "screen_000073.jpg",
+      "fps": 16.27
+    },
+    {
+      "frame": 74,
+      "time": "2025-07-12T19:15:46.889878",
+      "file": "screen_000074.jpg",
+      "fps": 11.41
+    },
+    {
+      "frame": 75,
+      "time": "2025-07-12T19:15:46.945429",
+      "file": "screen_000075.jpg",
+      "fps": 18.04
+    },
+    {
+      "frame": 76,
+      "time": "2025-07-12T19:15:47.008715",
+      "file": "screen_000076.jpg",
+      "fps": 15.86
+    },
+    {
+      "frame": 77,
+      "time": "2025-07-12T19:15:47.074091",
+      "file": "screen_000077.jpg",
+      "fps": 15.58
+    },
+    {
+      "frame": 78,
+      "time": "2025-07-12T19:15:47.162142",
+      "file": "screen_000078.jpg",
+      "fps": 11.31
+    },
+    {
+      "frame": 79,
+      "time": "2025-07-12T19:15:47.236167",
+      "file": "screen_000079.jpg",
+      "fps": 13.35
+    },
+    {
+      "frame": 80,
+      "time": "2025-07-12T19:15:47.318473",
+      "file": "screen_000080.jpg",
+      "fps": 12.64
+    },
+    {
+      "frame": 81,
+      "time": "2025-07-12T19:15:47.383668",
+      "file": "screen_000081.jpg",
+      "fps": 14.71
+    },
+    {
+      "frame": 82,
+      "time": "2025-07-12T19:15:47.445733",
+      "file": "screen_000082.jpg",
+      "fps": 16.02
+    },
+    {
+      "frame": 83,
+      "time": "2025-07-12T19:15:47.505301",
+      "file": "screen_000083.jpg",
+      "fps": 16.73
+    },
+    {
+      "frame": 84,
+      "time": "2025-07-12T19:15:47.560776",
+      "file": "screen_000084.jpg",
+      "fps": 18.01
+    },
+    {
+      "frame": 85,
+      "time": "2025-07-12T19:15:47.617927",
+      "file": "screen_000085.jpg",
+      "fps": 17.55
+    },
+    {
+      "frame": 86,
+      "time": "2025-07-12T19:15:47.683323",
+      "file": "screen_000086.jpg",
+      "fps": 15.32
+    },
+    {
+      "frame": 87,
+      "time": "2025-07-12T19:15:47.754450",
+      "file": "screen_000087.jpg",
+      "fps": 14.19
+    },
+    {
+      "frame": 88,
+      "time": "2025-07-12T19:15:47.822305",
+      "file": "screen_000088.jpg",
+      "fps": 14.68
+    },
+    {
+      "frame": 89,
+      "time": "2025-07-12T19:15:47.896532",
+      "file": "screen_000089.jpg",
+      "fps": 13.6
+    },
+    {
+      "frame": 90,
+      "time": "2025-07-12T19:15:47.997070",
+      "file": "screen_000090.jpg",
+      "fps": 10.07
+    },
+    {
+      "frame": 91,
+      "time": "2025-07-12T19:15:48.079656",
+      "file": "screen_000091.jpg",
+      "fps": 12.1
+    },
+    {
+      "frame": 92,
+      "time": "2025-07-12T19:15:48.149788",
+      "file": "screen_000092.jpg",
+      "fps": 14.34
+    },
+    {
+      "frame": 93,
+      "time": "2025-07-12T19:15:48.225202",
+      "file": "screen_000093.jpg",
+      "fps": 13.41
+    },
+    {
+      "frame": 94,
+      "time": "2025-07-12T19:15:48.288516",
+      "file": "screen_000094.jpg",
+      "fps": 15.38
+    },
+    {
+      "frame": 95,
+      "time": "2025-07-12T19:15:48.350288",
+      "file": "screen_000095.jpg",
+      "fps": 16.27
+    },
+    {
+      "frame": 96,
+      "time": "2025-07-12T19:15:48.416227",
+      "file": "screen_000096.jpg",
+      "fps": 15.11
+    },
+    {
+      "frame": 97,
+      "time": "2025-07-12T19:15:48.503428",
+      "file": "screen_000097.jpg",
+      "fps": 11.96
+    },
+    {
+      "frame": 98,
+      "time": "2025-07-12T19:15:48.565013",
+      "file": "screen_000098.jpg",
+      "fps": 15.01
+    },
+    {
+      "frame": 99,
+      "time": "2025-07-12T19:15:48.625715",
+      "file": "screen_000099.jpg",
+      "fps": 16.4
+    },
+    {
+      "frame": 100,
+      "time": "2025-07-12T19:15:48.684163",
+      "file": "screen_000100.jpg",
+      "fps": 17.1
+    },
+    {
+      "frame": 101,
+      "time": "2025-07-12T19:15:48.751984",
+      "file": "screen_000101.jpg",
+      "fps": 14.94
+    },
+    {
+      "frame": 102,
+      "time": "2025-07-12T19:15:48.820964",
+      "file": "screen_000102.jpg",
+      "fps": 14.43
+    },
+    {
+      "frame": 103,
+      "time": "2025-07-12T19:15:48.884186",
+      "file": "screen_000103.jpg",
+      "fps": 15.75
+    },
+    {
+      "frame": 104,
+      "time": "2025-07-12T19:15:48.950597",
+      "file": "screen_000104.jpg",
+      "fps": 15.09
+    },
+    {
+      "frame": 105,
+      "time": "2025-07-12T19:15:49.039155",
+      "file": "screen_000105.jpg",
+      "fps": 11.41
+    },
+    {
+      "frame": 106,
+      "time": "2025-07-12T19:15:49.106050",
+      "file": "screen_000106.jpg",
+      "fps": 14.77
+    },
+    {
+      "frame": 107,
+      "time": "2025-07-12T19:15:49.172570",
+      "file": "screen_000107.jpg",
+      "fps": 14.93
+    },
+    {
+      "frame": 108,
+      "time": "2025-07-12T19:15:49.242064",
+      "file": "screen_000108.jpg",
+      "fps": 14.5
+    },
+    {
+      "frame": 109,
+      "time": "2025-07-12T19:15:49.313267",
+      "file": "screen_000109.jpg",
+      "fps": 13.98
+    },
+    {
+      "frame": 110,
+      "time": "2025-07-12T19:15:49.381772",
+      "file": "screen_000110.jpg",
+      "fps": 14.73
+    },
+    {
+      "frame": 111,
+      "time": "2025-07-12T19:15:49.446571",
+      "file": "screen_000111.jpg",
+      "fps": 15.45
+    },
+    {
+      "frame": 112,
+      "time": "2025-07-12T19:15:49.509130",
+      "file": "screen_000112.jpg",
+      "fps": 15.8
+    },
+    {
+      "frame": 113,
+      "time": "2025-07-12T19:15:49.565124",
+      "file": "screen_000113.jpg",
+      "fps": 17.84
+    },
+    {
+      "frame": 114,
+      "time": "2025-07-12T19:15:49.626543",
+      "file": "screen_000114.jpg",
+      "fps": 16.33
+    },
+    {
+      "frame": 115,
+      "time": "2025-07-12T19:15:49.699537",
+      "file": "screen_000115.jpg",
+      "fps": 13.84
+    },
+    {
+      "frame": 116,
+      "time": "2025-07-12T19:15:49.773297",
+      "file": "screen_000116.jpg",
+      "fps": 13.38
+    },
+    {
+      "frame": 117,
+      "time": "2025-07-12T19:15:49.830864",
+      "file": "screen_000117.jpg",
+      "fps": 17.47
+    },
+    {
+      "frame": 118,
+      "time": "2025-07-12T19:15:49.897759",
+      "file": "screen_000118.jpg",
+      "fps": 14.92
+    },
+    {
+      "frame": 119,
+      "time": "2025-07-12T19:15:49.965414",
+      "file": "screen_000119.jpg",
+      "fps": 14.79
+    },
+    {
+      "frame": 120,
+      "time": "2025-07-12T19:15:50.032174",
+      "file": "screen_000120.jpg",
+      "fps": 15.03
+    },
+    {
+      "frame": 121,
+      "time": "2025-07-12T19:15:50.099185",
+      "file": "screen_000121.jpg",
+      "fps": 14.99
+    },
+    {
+      "frame": 122,
+      "time": "2025-07-12T19:15:50.182435",
+      "file": "screen_000122.jpg",
+      "fps": 11.91
+    },
+    {
+      "frame": 123,
+      "time": "2025-07-12T19:15:50.252958",
+      "file": "screen_000123.jpg",
+      "fps": 14.41
+    },
+    {
+      "frame": 124,
+      "time": "2025-07-12T19:15:50.318868",
+      "file": "screen_000124.jpg",
+      "fps": 15.05
+    },
+    {
+      "frame": 125,
+      "time": "2025-07-12T19:15:50.385108",
+      "file": "screen_000125.jpg",
+      "fps": 14.98
+    },
+    {
+      "frame": 126,
+      "time": "2025-07-12T19:15:50.455247",
+      "file": "screen_000126.jpg",
+      "fps": 14.27
+    },
+    {
+      "frame": 127,
+      "time": "2025-07-12T19:15:50.524026",
+      "file": "screen_000127.jpg",
+      "fps": 14.63
+    },
+    {
+      "frame": 128,
+      "time": "2025-07-12T19:15:50.594927",
+      "file": "screen_000128.jpg",
+      "fps": 13.98
+    },
+    {
+      "frame": 129,
+      "time": "2025-07-12T19:15:50.657329",
+      "file": "screen_000129.jpg",
+      "fps": 16.13
+    },
+    {
+      "frame": 130,
+      "time": "2025-07-12T19:15:50.721125",
+      "file": "screen_000130.jpg",
+      "fps": 15.71
+    },
+    {
+      "frame": 131,
+      "time": "2025-07-12T19:15:50.789026",
+      "file": "screen_000131.jpg",
+      "fps": 14.94
+    },
+    {
+      "frame": 132,
+      "time": "2025-07-12T19:15:50.876491",
+      "file": "screen_000132.jpg",
+      "fps": 11.32
+    },
+    {
+      "frame": 133,
+      "time": "2025-07-12T19:15:50.938301",
+      "file": "screen_000133.jpg",
+      "fps": 16.19
+    },
+    {
+      "frame": 134,
+      "time": "2025-07-12T19:15:51.003898",
+      "file": "screen_000134.jpg",
+      "fps": 15.11
+    },
+    {
+      "frame": 135,
+      "time": "2025-07-12T19:15:51.064787",
+      "file": "screen_000135.jpg",
+      "fps": 16.46
+    },
+    {
+      "frame": 136,
+      "time": "2025-07-12T19:15:51.127035",
+      "file": "screen_000136.jpg",
+      "fps": 16.09
+    },
+    {
+      "frame": 137,
+      "time": "2025-07-12T19:15:51.187860",
+      "file": "screen_000137.jpg",
+      "fps": 16.57
+    },
+    {
+      "frame": 138,
+      "time": "2025-07-12T19:15:51.250047",
+      "file": "screen_000138.jpg",
+      "fps": 15.86
+    },
+    {
+      "frame": 139,
+      "time": "2025-07-12T19:15:51.334494",
+      "file": "screen_000139.jpg",
+      "fps": 11.93
+    },
+    {
+      "frame": 140,
+      "time": "2025-07-12T19:15:51.400108",
+      "file": "screen_000140.jpg",
+      "fps": 15.46
+    },
+    {
+      "frame": 141,
+      "time": "2025-07-12T19:15:51.463228",
+      "file": "screen_000141.jpg",
+      "fps": 15.45
+    },
+    {
+      "frame": 142,
+      "time": "2025-07-12T19:15:51.532686",
+      "file": "screen_000142.jpg",
+      "fps": 14.47
+    },
+    {
+      "frame": 143,
+      "time": "2025-07-12T19:15:51.597865",
+      "file": "screen_000143.jpg",
+      "fps": 15.57
+    },
+    {
+      "frame": 144,
+      "time": "2025-07-12T19:15:51.665778",
+      "file": "screen_000144.jpg",
+      "fps": 14.56
+    },
+    {
+      "frame": 145,
+      "time": "2025-07-12T19:15:51.730868",
+      "file": "screen_000145.jpg",
+      "fps": 15.41
+    },
+    {
+      "frame": 146,
+      "time": "2025-07-12T19:15:51.800184",
+      "file": "screen_000146.jpg",
+      "fps": 14.38
+    },
+    {
+      "frame": 147,
+      "time": "2025-07-12T19:15:51.869279",
+      "file": "screen_000147.jpg",
+      "fps": 14.48
+    },
+    {
+      "frame": 148,
+      "time": "2025-07-12T19:15:51.943896",
+      "file": "screen_000148.jpg",
+      "fps": 13.39
+    },
+    {
+      "frame": 149,
+      "time": "2025-07-12T19:15:52.020432",
+      "file": "screen_000149.jpg",
+      "fps": 13.11
+    },
+    {
+      "frame": 150,
+      "time": "2025-07-12T19:15:52.109344",
+      "file": "screen_000150.jpg",
+      "fps": 11.16
+    },
+    {
+      "frame": 151,
+      "time": "2025-07-12T19:15:52.178473",
+      "file": "screen_000151.jpg",
+      "fps": 14.55
+    },
+    {
+      "frame": 152,
+      "time": "2025-07-12T19:15:52.256832",
+      "file": "screen_000152.jpg",
+      "fps": 12.79
+    },
+    {
+      "frame": 153,
+      "time": "2025-07-12T19:15:52.320129",
+      "file": "screen_000153.jpg",
+      "fps": 15.83
+    },
+    {
+      "frame": 154,
+      "time": "2025-07-12T19:15:52.383801",
+      "file": "screen_000154.jpg",
+      "fps": 15.56
+    },
+    {
+      "frame": 155,
+      "time": "2025-07-12T19:15:52.449171",
+      "file": "screen_000155.jpg",
+      "fps": 15.25
+    },
+    {
+      "frame": 156,
+      "time": "2025-07-12T19:15:52.515829",
+      "file": "screen_000156.jpg",
+      "fps": 15.29
+    },
+    {
+      "frame": 157,
+      "time": "2025-07-12T19:15:52.584150",
+      "file": "screen_000157.jpg",
+      "fps": 14.41
+    },
+    {
+      "frame": 158,
+      "time": "2025-07-12T19:15:52.651997",
+      "file": "screen_000158.jpg",
+      "fps": 14.93
+    },
+    {
+      "frame": 159,
+      "time": "2025-07-12T19:15:52.714417",
+      "file": "screen_000159.jpg",
+      "fps": 15.77
+    },
+    {
+      "frame": 160,
+      "time": "2025-07-12T19:15:52.777427",
+      "file": "screen_000160.jpg",
+      "fps": 15.9
+    },
+    {
+      "frame": 161,
+      "time": "2025-07-12T19:15:52.836976",
+      "file": "screen_000161.jpg",
+      "fps": 16.81
+    },
+    {
+      "frame": 162,
+      "time": "2025-07-12T19:15:52.899615",
+      "file": "screen_000162.jpg",
+      "fps": 15.96
+    },
+    {
+      "frame": 163,
+      "time": "2025-07-12T19:15:52.964001",
+      "file": "screen_000163.jpg",
+      "fps": 15.49
+    },
+    {
+      "frame": 164,
+      "time": "2025-07-12T19:15:53.026996",
+      "file": "screen_000164.jpg",
+      "fps": 15.94
+    },
+    {
+      "frame": 165,
+      "time": "2025-07-12T19:15:53.089999",
+      "file": "screen_000165.jpg",
+      "fps": 15.9
+    },
+    {
+      "frame": 166,
+      "time": "2025-07-12T19:15:53.154895",
+      "file": "screen_000166.jpg",
+      "fps": 15.47
+    },
+    {
+      "frame": 167,
+      "time": "2025-07-12T19:15:53.221774",
+      "file": "screen_000167.jpg",
+      "fps": 14.95
+    },
+    {
+      "frame": 168,
+      "time": "2025-07-12T19:15:53.294188",
+      "file": "screen_000168.jpg",
+      "fps": 13.79
+    },
+    {
+      "frame": 169,
+      "time": "2025-07-12T19:15:53.362876",
+      "file": "screen_000169.jpg",
+      "fps": 14.61
+    },
+    {
+      "frame": 170,
+      "time": "2025-07-12T19:15:53.445048",
+      "file": "screen_000170.jpg",
+      "fps": 12.11
+    },
+    {
+      "frame": 171,
+      "time": "2025-07-12T19:15:53.521167",
+      "file": "screen_000171.jpg",
+      "fps": 13.86
+    },
+    {
+      "frame": 172,
+      "time": "2025-07-12T19:15:53.593379",
+      "file": "screen_000172.jpg",
+      "fps": 13.32
+    },
+    {
+      "frame": 173,
+      "time": "2025-07-12T19:15:53.656437",
+      "file": "screen_000173.jpg",
+      "fps": 15.91
+    },
+    {
+      "frame": 174,
+      "time": "2025-07-12T19:15:53.718196",
+      "file": "screen_000174.jpg",
+      "fps": 16.1
+    },
+    {
+      "frame": 175,
+      "time": "2025-07-12T19:15:53.777064",
+      "file": "screen_000175.jpg",
+      "fps": 16.79
+    },
+    {
+      "frame": 176,
+      "time": "2025-07-12T19:15:53.831588",
+      "file": "screen_000176.jpg",
+      "fps": 18.31
+    },
+    {
+      "frame": 177,
+      "time": "2025-07-12T19:15:53.891324",
+      "file": "screen_000177.jpg",
+      "fps": 16.73
+    },
+    {
+      "frame": 178,
+      "time": "2025-07-12T19:15:53.949876",
+      "file": "screen_000178.jpg",
+      "fps": 17.16
+    },
+    {
+      "frame": 179,
+      "time": "2025-07-12T19:15:54.005871",
+      "file": "screen_000179.jpg",
+      "fps": 17.67
+    },
+    {
+      "frame": 180,
+      "time": "2025-07-12T19:15:54.061433",
+      "file": "screen_000180.jpg",
+      "fps": 18.06
+    },
+    {
+      "frame": 181,
+      "time": "2025-07-12T19:15:54.127278",
+      "file": "screen_000181.jpg",
+      "fps": 15.39
+    },
+    {
+      "frame": 182,
+      "time": "2025-07-12T19:15:54.185956",
+      "file": "screen_000182.jpg",
+      "fps": 16.89
+    },
+    {
+      "frame": 183,
+      "time": "2025-07-12T19:15:54.265915",
+      "file": "screen_000183.jpg",
+      "fps": 12.51
+    },
+    {
+      "frame": 184,
+      "time": "2025-07-12T19:15:54.326828",
+      "file": "screen_000184.jpg",
+      "fps": 16.61
+    },
+    {
+      "frame": 185,
+      "time": "2025-07-12T19:15:54.391456",
+      "file": "screen_000185.jpg",
+      "fps": 15.22
+    },
+    {
+      "frame": 186,
+      "time": "2025-07-12T19:15:54.462248",
+      "file": "screen_000186.jpg",
+      "fps": 14.16
+    },
+    {
+      "frame": 187,
+      "time": "2025-07-12T19:15:54.530854",
+      "file": "screen_000187.jpg",
+      "fps": 14.76
+    },
+    {
+      "frame": 188,
+      "time": "2025-07-12T19:15:54.594379",
+      "file": "screen_000188.jpg",
+      "fps": 15.3
+    },
+    {
+      "frame": 189,
+      "time": "2025-07-12T19:15:54.655914",
+      "file": "screen_000189.jpg",
+      "fps": 16.32
+    },
+    {
+      "frame": 190,
+      "time": "2025-07-12T19:15:54.724364",
+      "file": "screen_000190.jpg",
+      "fps": 14.6
+    },
+    {
+      "frame": 191,
+      "time": "2025-07-12T19:15:54.791666",
+      "file": "screen_000191.jpg",
+      "fps": 15.0
+    },
+    {
+      "frame": 192,
+      "time": "2025-07-12T19:15:54.859740",
+      "file": "screen_000192.jpg",
+      "fps": 14.62
+    },
+    {
+      "frame": 193,
+      "time": "2025-07-12T19:15:54.921209",
+      "file": "screen_000193.jpg",
+      "fps": 16.36
+    },
+    {
+      "frame": 194,
+      "time": "2025-07-12T19:15:54.986194",
+      "file": "screen_000194.jpg",
+      "fps": 15.32
+    },
+    {
+      "frame": 195,
+      "time": "2025-07-12T19:15:55.044148",
+      "file": "screen_000195.jpg",
+      "fps": 17.2
+    },
+    {
+      "frame": 196,
+      "time": "2025-07-12T19:15:55.110878",
+      "file": "screen_000196.jpg",
+      "fps": 14.89
+    },
+    {
+      "frame": 197,
+      "time": "2025-07-12T19:15:55.180888",
+      "file": "screen_000197.jpg",
+      "fps": 14.31
+    },
+    {
+      "frame": 198,
+      "time": "2025-07-12T19:15:55.242336",
+      "file": "screen_000198.jpg",
+      "fps": 16.3
+    },
+    {
+      "frame": 199,
+      "time": "2025-07-12T19:15:55.300744",
+      "file": "screen_000199.jpg",
+      "fps": 17.29
+    },
+    {
+      "frame": 200,
+      "time": "2025-07-12T19:15:55.358207",
+      "file": "screen_000200.jpg",
+      "fps": 17.44
+    },
+    {
+      "frame": 201,
+      "time": "2025-07-12T19:15:55.416909",
+      "file": "screen_000201.jpg",
+      "fps": 16.76
+    },
+    {
+      "frame": 202,
+      "time": "2025-07-12T19:15:55.476863",
+      "file": "screen_000202.jpg",
+      "fps": 16.68
+    },
+    {
+      "frame": 203,
+      "time": "2025-07-12T19:15:55.541624",
+      "file": "screen_000203.jpg",
+      "fps": 15.52
+    },
+    {
+      "frame": 204,
+      "time": "2025-07-12T19:15:55.606395",
+      "file": "screen_000204.jpg",
+      "fps": 15.39
+    },
+    {
+      "frame": 205,
+      "time": "2025-07-12T19:15:55.668115",
+      "file": "screen_000205.jpg",
+      "fps": 16.18
+    },
+    {
+      "frame": 206,
+      "time": "2025-07-12T19:15:55.724771",
+      "file": "screen_000206.jpg",
+      "fps": 17.69
+    },
+    {
+      "frame": 207,
+      "time": "2025-07-12T19:15:55.784849",
+      "file": "screen_000207.jpg",
+      "fps": 16.59
+    },
+    {
+      "frame": 208,
+      "time": "2025-07-12T19:15:55.846553",
+      "file": "screen_000208.jpg",
+      "fps": 16.94
+    },
+    {
+      "frame": 209,
+      "time": "2025-07-12T19:15:55.913119",
+      "file": "screen_000209.jpg",
+      "fps": 14.47
+    }
+  ],
+  "keyboard": [
+    {
+      "event": "press",
+      "key": "h",
+      "time": "2025-07-12T19:15:51.650729"
+    },
+    {
+      "event": "release",
+      "key": "'h'",
+      "time": "2025-07-12T19:15:51.714904"
+    },
+    {
+      "event": "press",
+      "key": "e",
+      "time": "2025-07-12T19:15:51.768389"
+    },
+    {
+      "event": "release",
+      "key": "'e'",
+      "time": "2025-07-12T19:15:51.884955"
+    },
+    {
+      "event": "press",
+      "key": "l",
+      "time": "2025-07-12T19:15:51.955929"
+    },
+    {
+      "event": "release",
+      "key": "'l'",
+      "time": "2025-07-12T19:15:52.052343"
+    },
+    {
+      "event": "press",
+      "key": "l",
+      "time": "2025-07-12T19:15:52.136732"
+    },
+    {
+      "event": "release",
+      "key": "'l'",
+      "time": "2025-07-12T19:15:52.197197"
+    },
+    {
+      "event": "press",
+      "key": "o",
+      "time": "2025-07-12T19:15:52.307690"
+    },
+    {
+      "event": "release",
+      "key": "'o'",
+      "time": "2025-07-12T19:15:52.376015"
+    },
+    {
+      "event": "press",
+      "key": "Key.space",
+      "time": "2025-07-12T19:15:52.485479"
+    },
+    {
+      "event": "release",
+      "key": "Key.space",
+      "time": "2025-07-12T19:15:52.573614"
+    },
+    {
+      "event": "press",
+      "key": "w",
+      "time": "2025-07-12T19:15:52.614697"
+    },
+    {
+      "event": "release",
+      "key": "'w'",
+      "time": "2025-07-12T19:15:52.730866"
+    },
+    {
+      "event": "press",
+      "key": "o",
+      "time": "2025-07-12T19:15:52.750435"
+    },
+    {
+      "event": "release",
+      "key": "'o'",
+      "time": "2025-07-12T19:15:52.842610"
+    },
+    {
+      "event": "press",
+      "key": "r",
+      "time": "2025-07-12T19:15:52.857484"
+    },
+    {
+      "event": "release",
+      "key": "'r'",
+      "time": "2025-07-12T19:15:52.957255"
+    },
+    {
+      "event": "press",
+      "key": "l",
+      "time": "2025-07-12T19:15:52.993188"
+    },
+    {
+      "event": "press",
+      "key": "d",
+      "time": "2025-07-12T19:15:53.077949"
+    },
+    {
+      "event": "release",
+      "key": "'l'",
+      "time": "2025-07-12T19:15:53.085989"
+    },
+    {
+      "event": "release",
+      "key": "'d'",
+      "time": "2025-07-12T19:15:53.222535"
+    }
+  ],
+  "mouse": [
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": true,
+      "position": [
+        454.56640625,
+        104.6015625
+      ],
+      "time": "2025-07-12T19:15:46.770988"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": false,
+      "position": [
+        454.56640625,
+        104.6015625
+      ],
+      "time": "2025-07-12T19:15:46.852219"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": true,
+      "position": [
+        807.25390625,
+        107.32421875
+      ],
+      "time": "2025-07-12T19:15:47.816906"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": false,
+      "position": [
+        807.25390625,
+        107.56640625
+      ],
+      "time": "2025-07-12T19:15:47.887733"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": true,
+      "position": [
+        962.20703125,
+        99.83203125
+      ],
+      "time": "2025-07-12T19:15:48.417117"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": false,
+      "position": [
+        962.20703125,
+        100.08984375
+      ],
+      "time": "2025-07-12T19:15:48.516189"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": true,
+      "position": [
+        1117.6875,
+        95.33984375
+      ],
+      "time": "2025-07-12T19:15:48.954726"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": false,
+      "position": [
+        1117.9453125,
+        95.59765625
+      ],
+      "time": "2025-07-12T19:15:49.057469"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": true,
+      "position": [
+        1356.890625,
+        104.07421875
+      ],
+      "time": "2025-07-12T19:15:49.654965"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": false,
+      "position": [
+        1357.1484375,
+        104.07421875
+      ],
+      "time": "2025-07-12T19:15:49.757749"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": true,
+      "position": [
+        610.15234375,
+        102.57421875
+      ],
+      "time": "2025-07-12T19:15:54.469927"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": false,
+      "position": [
+        610.4453125,
+        103.1640625
+      ],
+      "time": "2025-07-12T19:15:54.564672"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": true,
+      "position": [
+        567.62109375,
+        329.30078125
+      ],
+      "time": "2025-07-12T19:15:55.772193"
+    },
+    {
+      "event": "click",
+      "button": "Button.left",
+      "pressed": false,
+      "position": [
+        567.87890625,
+        329.30078125
+      ],
+      "time": "2025-07-12T19:15:55.892375"
+    }
+  ],
+  "responses": [
+    {
+      "click_time": "2025-07-12T19:15:46.770988",
+      "click_position": [
+        454.56640625,
+        104.6015625
+      ],
+      "click_frame": {
+        "frame": 72,
+        "file": "screen_000072.jpg",
+        "time": "2025-07-12T19:15:46.740496"
+      },
+      "change_frame": {
+        "frame": 75,
+        "file": "screen_000075.jpg",
+        "time": "2025-07-12T19:15:46.945429"
+      },
+      "response_time_ms": 204.933
+    },
+    {
+      "click_time": "2025-07-12T19:15:47.816906",
+      "click_position": [
+        807.25390625,
+        107.32421875
+      ],
+      "click_frame": {
+        "frame": 88,
+        "file": "screen_000088.jpg",
+        "time": "2025-07-12T19:15:47.822305"
+      },
+      "change_frame": {
+        "frame": 91,
+        "file": "screen_000091.jpg",
+        "time": "2025-07-12T19:15:48.079656"
+      },
+      "response_time_ms": 257.351
+    },
+    {
+      "click_time": "2025-07-12T19:15:48.417117",
+      "click_position": [
+        962.20703125,
+        99.83203125
+      ],
+      "click_frame": {
+        "frame": 96,
+        "file": "screen_000096.jpg",
+        "time": "2025-07-12T19:15:48.416227"
+      },
+      "change_frame": {
+        "frame": 98,
+        "file": "screen_000098.jpg",
+        "time": "2025-07-12T19:15:48.565013"
+      },
+      "response_time_ms": 148.786
+    },
+    {
+      "click_time": "2025-07-12T19:15:48.954726",
+      "click_position": [
+        1117.6875,
+        95.33984375
+      ],
+      "click_frame": {
+        "frame": 104,
+        "file": "screen_000104.jpg",
+        "time": "2025-07-12T19:15:48.950597"
+      },
+      "change_frame": {
+        "frame": 106,
+        "file": "screen_000106.jpg",
+        "time": "2025-07-12T19:15:49.106050"
+      },
+      "response_time_ms": 155.453
+    },
+    {
+      "click_time": "2025-07-12T19:15:49.654965",
+      "click_position": [
+        1356.890625,
+        104.07421875
+      ],
+      "click_frame": {
+        "frame": 114,
+        "file": "screen_000114.jpg",
+        "time": "2025-07-12T19:15:49.626543"
+      },
+      "change_frame": {
+        "frame": 117,
+        "file": "screen_000117.jpg",
+        "time": "2025-07-12T19:15:49.830864"
+      },
+      "response_time_ms": 204.321
+    },
+    {
+      "click_time": "2025-07-12T19:15:54.469927",
+      "click_position": [
+        610.15234375,
+        102.57421875
+      ],
+      "click_frame": {
+        "frame": 186,
+        "file": "screen_000186.jpg",
+        "time": "2025-07-12T19:15:54.462248"
+      },
+      "change_frame": {
+        "frame": 188,
+        "file": "screen_000188.jpg",
+        "time": "2025-07-12T19:15:54.594379"
+      },
+      "response_time_ms": 132.131
+    }
+  ]
+}
