@@ -77,7 +77,7 @@ We go beyond basic interaction tracking (clicks & scrolls).
 We track:
  
 - Gaze direction  
--  Facial expressions (emotion detection)  
+- Facial expressions (emotion detection)  
 - Keyboard/mouse behavior  
 - Response times  
  
@@ -127,7 +127,7 @@ chAI/
 
 ### Prerequisites
 
-- Download Ollama from [this link](https://ollama.com/download/windows).
+- Download and Install the setup of Ollama from [this link](https://ollama.com/download/windows).
 - Open terminal and run the following commands
 ```ollama pull gemma3:1b``` and ```ollama pull llava:13b```
 
@@ -137,13 +137,19 @@ chAI/
 ```bash
 git clone https://github.com/samyamaryal/chAI
 cd chAI
-pip install -r requirements.txt
 ```
- 
-Ensure your machine has:
-- Python 3.8+
+
+- Create a conda environment
+
+```bash
+conda create -n myenv python==3.10
+conda activate myenv
+```
+
+Requirements:
+- Python 3
+- Conda
 - Webcam access
-- A supported OS (macOS, Windows, Linux)
  
 ---
  
