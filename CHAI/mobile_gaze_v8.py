@@ -247,7 +247,7 @@ def process_images(images_dir, out_dir, calib_path):
             "engaged": engaged
         })
     with open(Path(out_dir) / "../gaze_log.json", "w") as f: json.dump(records, f, indent=2)
-    print(f"Done → {out_dir} & gaze_log.json")
+    print(f"Done : {out_dir} & gaze_log.json")
 
 if __name__ == "__main__":
     p = argparse.ArgumentParser()
