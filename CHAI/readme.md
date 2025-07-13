@@ -124,11 +124,18 @@ chAI/
 ---
  
 ## How to Use
- 
+
+### Prerequisites
+
+- Download Ollama from [this link](https://ollama.com/download/windows).
+- Open terminal and run the following commands
+```ollama pull gemma3:1b``` and ```ollama pull llava:13b```
+
+
 ### 1. Setup
- 
+
 ```bash
-git clone https://github.com/yourusername/chAI.git
+git clone https://github.com/samyamaryal/chAI
 cd chAI
 pip install -r requirements.txt
 ```
