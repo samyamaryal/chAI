@@ -27,9 +27,10 @@ heatmap_data = np.zeros((3, 3))
 # Map sectors to grid positions
 # Assuming sectors are numbered 0-8 in a 3x3 grid
 for sector, count in freq.items():
-    if 0 <= sector <= 8:
-        row = sector // 3
-        col = sector % 3
+    if 1 <= sector <= 9:
+        idx = sector - 1
+        row = 2 - (idx // 3)  # Mirror vertically
+        col = idx % 3
         heatmap_data[row, col] = count
 
 print("Heatmap data:")

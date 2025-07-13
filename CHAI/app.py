@@ -12,6 +12,8 @@ from record import start_recording, stop_recording, is_recording_active
 from response_time import update_combined_log_with_responses
 from emotion_detector import analyze_emotions_in_recording, get_dominant_emotion
 from gaze_detector import calibrate_gaze, process_gaze_detection, integrate_gaze_with_combined_log, check_calibration_exists
+from Final_Report import get_summary, get_ollama_summary
+from frame_analysis import run_frame_analysis
 
 # Check if frames directory exists (will be updated dynamically)
 frames_exist = os.path.exists("./frames")
@@ -461,6 +463,10 @@ if 'recording_status' not in st.session_state:
     st.session_state.recording_status = "Not Recording"
 if 'show_playback' not in st.session_state:
     st.session_state.show_playback = False
+if 'frame_analysis_results' not in st.session_state:
+    st.session_state.frame_analysis_results = None
+if 'frame_summary' not in st.session_state:
+    st.session_state.frame_summary = None
 
 # Recording controls section
 st.markdown("### Recording Controls")
@@ -783,7 +789,7 @@ if not st.session_state.show_comparison:
                                 else:
                                     st.warning("⚠️ No click responses found. Make sure you have mouse clicks in your recording.")
                             
-                            # Step 2: Emotion detection
+                            # Step 4: Emotion detection
                             with st.spinner("😊 Analyzing emotions in webcam frames..."):
                                 emotion_result = analyze_emotions_in_recording(
                                     "./frames/combined_log.json",
@@ -817,9 +823,22 @@ if not st.session_state.show_comparison:
                                     # Show processing efficiency info
                                     if emotion_frames < total_frames:
                                         skipped_frames = total_frames - emotion_frames
-                                        st.info(f"💡 **Efficiency:** Skipped {skipped_frames} frames that already had emotion data.")
+                                        st.info(f"\U0001F4A1 **Efficiency:** Skipped {skipped_frames} frames that already had emotion data.")
                                 else:
-                                    st.warning("⚠️ Emotion analysis failed or no webcam frames found.")
+                                    st.warning("\u26A0\uFE0F Emotion analysis failed or no webcam frames found.")
+                            # --- Final Report Generation ---
+                            if (not st.session_state.show_comparison and 
+                                not st.session_state.comparison_is_playing and 
+                                not st.session_state.comparison_recording):
+                                try:
+                                    gaze_freq, max_emotion, number_of_mouse_clicks, number_of_keyboard_events = get_summary('frames')
+                                    with st.spinner("🤖 Generating AI summary..."):
+                                        ollama_summary = get_ollama_summary(gaze_freq, max_emotion, number_of_mouse_clicks, number_of_keyboard_events)
+                                    st.session_state.ollama_summary = ollama_summary
+                                    st.markdown('### 📝 Final Report Summary')
+                                    st.info(ollama_summary)
+                                except Exception as e:
+                                    st.warning(f"Could not generate final report: {e}")
                         
                         st.session_state.show_playback = True
                     except Exception as e:
@@ -828,6 +847,46 @@ if not st.session_state.show_comparison:
                 else:
                     st.warning("⚠️ No recording data found. Please record some data first.")
                     st.session_state.show_playback = True
+            st.rerun()
+
+        # Separate button for frame analysis
+        if st.button("🖼️ Analyze Frame Interactions"):
+            if os.path.exists("./frames") and os.path.exists("./frames/combined_log.json"):
+                try:
+                    with st.spinner("🖼️ Analyzing frame interactions..."):
+                        # Check if frame analysis already exists
+                        with open("./frames/combined_log.json", "r") as f:
+                            current_log = json.load(f)
+                        
+                        # Check if responses already have analysis
+                        responses = current_log.get('responses', [])
+                        has_existing_analysis = any('analysis' in response for response in responses)
+                        
+                        if has_existing_analysis:
+                            st.success("✅ Frame analysis already exists! Loading existing results.")
+                            # Load existing analysis results
+                            st.session_state.frame_analysis_results = current_log
+                            st.session_state.frame_summary = current_log.get('session_analysis', {}).get('summary', 'No summary available')
+                        else:
+                            # Run frame analysis
+                            frame_analysis_result, frame_summary = run_frame_analysis(
+                                "./frames/combined_log.json",
+                                "./frames/screen"
+                            )
+                            
+                            if frame_analysis_result:
+                                st.success(f"✅ Frame analysis complete! Analyzed {len(frame_analysis_result.get('responses', []))} interactions.")
+                                # Store the frame analysis results for display
+                                st.session_state.frame_analysis_results = frame_analysis_result
+                                st.session_state.frame_summary = frame_summary
+                            else:
+                                st.warning(f"⚠️ Frame analysis failed: {frame_summary}")
+                        
+                        st.session_state.show_playback = True
+                except Exception as e:
+                    st.error(f"❌ Error during frame analysis: {e}")
+            else:
+                st.warning("⚠️ No recording data found. Please record some data first.")
             st.rerun()
 
     with post_col2:
@@ -969,7 +1028,7 @@ if st.session_state.show_playback:
             else:
                 st.caption("Compare with previous recording")
     
-    if current_synced_frames:
+    if current_synced_frames and not st.session_state.show_comparison and not st.session_state.comparison_recording and not st.session_state.comparison_synced_frames:
         # Compact playback controls
         controls_col1, controls_col2, controls_col3, controls_col4 = st.columns([1, 2, 1, 2])
 
@@ -1189,8 +1248,8 @@ if st.session_state.show_playback:
                 st.plotly_chart(trend_fig, use_container_width=True)
             else:
                 st.warning("No emotion data available for trend chart.")
-    else:
-        st.warning("No recorded frames found. Start recording to capture webcam and screen data.")
+        else:
+            st.warning("No recorded frames found. Start recording to capture webcam and screen data.")
 
 # Auto-play functionality
 if st.session_state.is_playing and st.session_state.show_playback:
@@ -1240,7 +1299,7 @@ if st.session_state.is_playing and st.session_state.show_playback:
             })
     
     current_time = time.time()
-    if current_time - st.session_state.last_update >= 0.05:  # 20 FPS (faster)
+    if current_time - st.session_state.last_update >= 0.04:  # 25 FPS (faster)
         if st.session_state.current_frame_idx < len(current_synced_frames) - 1:
             st.session_state.current_frame_idx += 1
             st.session_state.last_update = current_time
@@ -1251,6 +1310,116 @@ if st.session_state.is_playing and st.session_state.show_playback:
         if st.session_state.is_playing:
             st.rerun()
 
+# Frame Analysis Results Display
+if st.session_state.show_playback and hasattr(st.session_state, 'frame_analysis_results') and st.session_state.frame_analysis_results:
+    # Check if there are actual analysis results
+    responses = st.session_state.frame_analysis_results.get('responses', [])
+    has_analysis_results = any('analysis' in response for response in responses)
+    
+    if has_analysis_results:
+        st.divider()
+        st.markdown("### 🖼️ Frame Analysis Results")
+        
+        # Add option to re-run frame analysis
+        if st.button("🔄 Re-run Frame Analysis"):
+            try:
+                # Clear existing analysis from the log file
+                with open("./frames/combined_log.json", "r") as f:
+                    current_log = json.load(f)
+                
+                # Remove analysis from responses
+                for response in current_log.get('responses', []):
+                    if 'analysis' in response:
+                        del response['analysis']
+                
+                # Remove session analysis
+                if 'session_analysis' in current_log:
+                    del current_log['session_analysis']
+                
+                # Save the cleaned log
+                with open("./frames/combined_log.json", "w") as f:
+                    json.dump(current_log, f, indent=2)
+                
+                # Clear any analysis data from the log file
+                # (The analysis data is now stored in the same file, so we don't need to remove a separate file)
+                
+                # Clear session state
+                if hasattr(st.session_state, 'frame_analysis_results'):
+                    st.session_state.frame_analysis_results = None
+                if hasattr(st.session_state, 'frame_summary'):
+                    st.session_state.frame_summary = None
+                
+                st.success("✅ Cleared existing frame analysis. Click '🖼️ Analyze Frame Interactions' to generate new analysis.")
+                st.rerun()
+            except Exception as e:
+                st.error(f"❌ Error clearing analysis: {e}")
+        
+        # Display session summary if available
+        if hasattr(st.session_state, 'frame_summary') and st.session_state.frame_summary:
+            st.markdown("#### 📝 Session Summary")
+            st.info(st.session_state.frame_summary)
+        
+        # Display interaction summaries as a table
+        if responses and any('analysis' in response for response in responses):
+            st.markdown("#### 📊 Interaction Summaries")
+            
+            # Create a table of interaction summaries
+            interaction_data = []
+            for i, response in enumerate(responses):
+                if 'analysis' in response and 'interaction_summary' in response['analysis']:
+                    # Extract click time for reference
+                    click_time = response.get('click_time', 'Unknown')
+                    
+                    # Get response time if available
+                    response_time = response.get('response_time_ms', 'N/A')
+                    if response_time != 'N/A':
+                        response_time = f"{response_time:.1f}ms"
+                    
+                    # Get the interaction summary
+                    summary = response['analysis']['interaction_summary']
+                    
+                    # Truncate summary if too long for table display
+                    if len(summary) > 200:
+                        summary = summary[:200] + "..."
+                    
+                    interaction_data.append({
+                        "Interaction #": i + 1,
+                        "Click Time": click_time,
+                        "Response Time": response_time,
+                        "Summary": summary
+                    })
+            
+            if interaction_data:
+                # Create a DataFrame for better table display
+                import pandas as pd
+                df = pd.DataFrame(interaction_data)
+                st.dataframe(df, use_container_width=True)
+                
+                # Add expandable details for each interaction
+                st.markdown("#### 🔍 Detailed Analysis")
+                for i, response in enumerate(responses):
+                    if 'analysis' in response:
+                        with st.expander(f"Interaction {i + 1} - {response.get('click_time', 'Unknown')}"):
+                            analysis = response['analysis']
+                            
+                            col1, col2 = st.columns(2)
+                            with col1:
+                                st.markdown("**Before State:**")
+                                st.write(analysis.get('before_description', 'No description available'))
+                            
+                            with col2:
+                                st.markdown("**After State:**")
+                                st.write(analysis.get('after_description', 'No description available'))
+                            
+                            st.markdown("**Full Interaction Summary:**")
+                            st.write(analysis.get('interaction_summary', 'No summary available'))
+            else:
+                st.warning("No interaction analysis data available.")
+        else:
+            st.info("No frame analysis results found. Run frame analysis first.")
+    else:
+        st.info("No frame analysis results available. Process recording to generate analysis.")
+
 # Side-by-side comparison display (independent of main playback)
 if st.session_state.comparison_recording and st.session_state.comparison_synced_frames:
     st.divider()
@@ -1258,6 +1427,12 @@ if st.session_state.comparison_recording and st.session_state.comparison_synced_
     
     # Comparison controls with separate sliders
     comp_col1, comp_col2, comp_col3, comp_col4 = st.columns([1, 1, 1, 1])
+    
+    # Ensure frame indices are within bounds BEFORE rendering sliders
+    if st.session_state.current_frame_idx >= len(synced_frames):
+        st.session_state.current_frame_idx = len(synced_frames) - 1
+    if st.session_state.comparison_frame_idx >= len(st.session_state.comparison_synced_frames):
+        st.session_state.comparison_frame_idx = len(st.session_state.comparison_synced_frames) - 1
     
     with comp_col1:
         if st.button("⏸️ Pause" if st.session_state.comparison_is_playing else "▶️ Play", key="comp_play_pause"):
@@ -1268,7 +1443,9 @@ if st.session_state.comparison_recording and st.session_state.comparison_synced_
         # Frame slider for current recording
         if len(synced_frames) > 0:
             frame_idx = st.slider("Current Frame", 0, len(synced_frames) - 1, st.session_state.current_frame_idx, 1, key="current_slider")
-            st.session_state.current_frame_idx = frame_idx
+            # Only update if user manually changed the slider (not during auto-play)
+            if frame_idx != st.session_state.current_frame_idx:
+                st.session_state.current_frame_idx = frame_idx
         else:
             st.warning("No frames available in current recording")
     
@@ -1276,7 +1453,9 @@ if st.session_state.comparison_recording and st.session_state.comparison_synced_
         # Frame slider for comparison recording
         if len(st.session_state.comparison_synced_frames) > 0:
             comp_frame_idx = st.slider("Comparison Frame", 0, len(st.session_state.comparison_synced_frames) - 1, st.session_state.comparison_frame_idx, 1, key="comparison_slider")
-            st.session_state.comparison_frame_idx = comp_frame_idx
+            # Only update if user manually changed the slider (not during auto-play)
+            if comp_frame_idx != st.session_state.comparison_frame_idx:
+                st.session_state.comparison_frame_idx = comp_frame_idx
         else:
             st.warning("No frames available in comparison recording")
     
@@ -1289,7 +1468,7 @@ if st.session_state.comparison_recording and st.session_state.comparison_synced_
     # Auto-play for comparison (advances both sliders independently)
     if st.session_state.comparison_is_playing:
         current_time = time.time()
-        if current_time - st.session_state.comparison_last_update >= 0.05:  # 20 FPS (faster)
+        if current_time - st.session_state.comparison_last_update >= 0.04:  # 25 FPS (faster)
             # Advance current recording frame
             if st.session_state.current_frame_idx < len(synced_frames) - 1:
                 st.session_state.current_frame_idx += 1
@@ -1304,12 +1483,6 @@ if st.session_state.comparison_recording and st.session_state.comparison_synced_
                 st.session_state.comparison_is_playing = False
             else:
                 st.session_state.comparison_last_update = current_time
-    
-    # Ensure frame indices are within bounds
-    if st.session_state.current_frame_idx >= len(synced_frames):
-        st.session_state.current_frame_idx = len(synced_frames) - 1
-    if st.session_state.comparison_frame_idx >= len(st.session_state.comparison_synced_frames):
-        st.session_state.comparison_frame_idx = len(st.session_state.comparison_synced_frames) - 1
     
     # Get current frames for both recordings with bounds checking
     if len(synced_frames) > 0 and len(st.session_state.comparison_synced_frames) > 0:
@@ -1656,6 +1829,176 @@ if st.session_state.comparison_recording and st.session_state.comparison_synced_
                 st.markdown(f"{action} {button} ({pos[0]}, {pos[1]}) ({time_diff:.1f}s){response_info}")
         else:
             st.markdown("*No mouse events*")
+    
+    # Side-by-side detailed frame analysis comparison
+    st.divider()
+    st.markdown("### 🖼️ Detailed Frame Analysis Comparison")
+    
+    # Check for frame analysis results in both recordings
+    current_has_frame_analysis = False
+    comp_has_frame_analysis = False
+    
+    # Check current recording for frame analysis
+    try:
+        with open("./frames/combined_log.json", "r") as f:
+            current_log = json.load(f)
+        current_responses = current_log.get('responses', [])
+        current_has_frame_analysis = any('analysis' in response for response in current_responses)
+    except:
+        pass
+    
+    # Check comparison recording for frame analysis
+    try:
+        comp_responses = st.session_state.comparison_data.get('responses', [])
+        comp_has_frame_analysis = any('analysis' in response for response in comp_responses)
+    except:
+        pass
+    
+    if current_has_frame_analysis or comp_has_frame_analysis:
+        # Side-by-side frame analysis summaries
+        comp_frame_analysis_col1, comp_frame_analysis_col2 = st.columns(2)
+        
+        with comp_frame_analysis_col1:
+            st.markdown("**Current Recording - Frame Analysis**")
+            if current_has_frame_analysis:
+                # Display session summary if available
+                current_session_summary = current_log.get('session_analysis', {}).get('summary', 'No summary available')
+                if current_session_summary and current_session_summary != 'No summary available':
+                    st.markdown("**Session Summary:**")
+                    st.info(current_session_summary)
+                
+                # Display interaction summaries as a table
+                if current_responses and any('analysis' in response for response in current_responses):
+                    st.markdown("**Interaction Summaries:**")
+                    
+                    # Create a table of interaction summaries
+                    current_interaction_data = []
+                    for i, response in enumerate(current_responses):
+                        if 'analysis' in response and 'interaction_summary' in response['analysis']:
+                            # Extract click time for reference
+                            click_time = response.get('click_time', 'Unknown')
+                            
+                            # Get response time if available
+                            response_time = response.get('response_time_ms', 'N/A')
+                            if response_time != 'N/A':
+                                response_time = f"{response_time:.1f}ms"
+                            
+                            # Get the interaction summary
+                            summary = response['analysis']['interaction_summary']
+                            
+                            # Truncate summary if too long for table display
+                            if len(summary) > 150:
+                                summary = summary[:150] + "..."
+                            
+                            current_interaction_data.append({
+                                "Interaction #": i + 1,
+                                "Click Time": click_time,
+                                "Response Time": response_time,
+                                "Summary": summary
+                            })
+                    
+                    if current_interaction_data:
+                        # Create a DataFrame for better table display
+                        import pandas as pd
+                        current_df = pd.DataFrame(current_interaction_data)
+                        st.dataframe(current_df, use_container_width=True)
+                        
+                        # Add expandable details for each interaction
+                        st.markdown("**Detailed Analysis:**")
+                        for i, response in enumerate(current_responses):
+                            if 'analysis' in response:
+                                with st.expander(f"Interaction {i + 1} - {response.get('click_time', 'Unknown')}"):
+                                    analysis = response['analysis']
+                                    
+                                    col1, col2 = st.columns(2)
+                                    with col1:
+                                        st.markdown("**Before State:**")
+                                        st.write(analysis.get('before_description', 'No description available'))
+                                    
+                                    with col2:
+                                        st.markdown("**After State:**")
+                                        st.write(analysis.get('after_description', 'No description available'))
+                                    
+                                    st.markdown("**Full Interaction Summary:**")
+                                    st.write(analysis.get('interaction_summary', 'No summary available'))
+                    else:
+                        st.warning("No interaction analysis data available.")
+                else:
+                    st.info("No frame analysis results found.")
+            else:
+                st.info("No frame analysis available for current recording.")
+        
+        with comp_frame_analysis_col2:
+            st.markdown(f"**{st.session_state.comparison_recording} - Frame Analysis**")
+            if comp_has_frame_analysis:
+                # Display session summary if available
+                comp_session_summary = st.session_state.comparison_data.get('session_analysis', {}).get('summary', 'No summary available')
+                if comp_session_summary and comp_session_summary != 'No summary available':
+                    st.markdown("**Session Summary:**")
+                    st.info(comp_session_summary)
+                
+                # Display interaction summaries as a table
+                if comp_responses and any('analysis' in response for response in comp_responses):
+                    st.markdown("**Interaction Summaries:**")
+                    
+                    # Create a table of interaction summaries
+                    comp_interaction_data = []
+                    for i, response in enumerate(comp_responses):
+                        if 'analysis' in response and 'interaction_summary' in response['analysis']:
+                            # Extract click time for reference
+                            click_time = response.get('click_time', 'Unknown')
+                            
+                            # Get response time if available
+                            response_time = response.get('response_time_ms', 'N/A')
+                            if response_time != 'N/A':
+                                response_time = f"{response_time:.1f}ms"
+                            
+                            # Get the interaction summary
+                            summary = response['analysis']['interaction_summary']
+                            
+                            # Truncate summary if too long for table display
+                            if len(summary) > 150:
+                                summary = summary[:150] + "..."
+                            
+                            comp_interaction_data.append({
+                                "Interaction #": i + 1,
+                                "Click Time": click_time,
+                                "Response Time": response_time,
+                                "Summary": summary
+                            })
+                    
+                    if comp_interaction_data:
+                        # Create a DataFrame for better table display
+                        import pandas as pd
+                        comp_df = pd.DataFrame(comp_interaction_data)
+                        st.dataframe(comp_df, use_container_width=True)
+                        
+                        # Add expandable details for each interaction
+                        st.markdown("**Detailed Analysis:**")
+                        for i, response in enumerate(comp_responses):
+                            if 'analysis' in response:
+                                with st.expander(f"Interaction {i + 1} - {response.get('click_time', 'Unknown')}"):
+                                    analysis = response['analysis']
+                                    
+                                    col1, col2 = st.columns(2)
+                                    with col1:
+                                        st.markdown("**Before State:**")
+                                        st.write(analysis.get('before_description', 'No description available'))
+                                    
+                                    with col2:
+                                        st.markdown("**After State:**")
+                                        st.write(analysis.get('after_description', 'No description available'))
+                                    
+                                    st.markdown("**Full Interaction Summary:**")
+                                    st.write(analysis.get('interaction_summary', 'No summary available'))
+                    else:
+                        st.warning("No interaction analysis data available.")
+                else:
+                    st.info("No frame analysis results found.")
+            else:
+                st.info("No frame analysis available for comparison recording.")
+    else:
+        st.info("No frame analysis results available for either recording. Process recordings to generate analysis.")
     
     # Emotion comparison charts
     current_has_emotions = any("emotion" in entry for entry in webcam_entries)
