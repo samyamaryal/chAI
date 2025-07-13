@@ -54,8 +54,10 @@ cover/
 # Translations
 *.mo
 *.pot
-*.jpg
-*.png
+
+CHAI/recordings/*
+CHAI/frames/*
+CHAI/temp/*
 
 # Django stuff:
 *.log
