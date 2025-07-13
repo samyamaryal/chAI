@@ -1,5 +1,28 @@
+# Core dependencies for chAI - Human Action Analysis System
+
+# Computer Vision and Image Processing
 opencv-python==4.8.1.78
 numpy==1.24.3
+Pillow==10.0.1
+
+# Deep Learning and AI
 deepface==0.0.79
+mediapipe==0.10.7
+
+# Data Analysis and Visualization
+pandas==2.0.3
 plotly==5.17.0
-pandas==2.0.3 
+matplotlib==3.7.2
+
+# Web Framework
+streamlit==1.28.1
+
+# LLM Integration
+ollama==0.1.7
+
+# System Monitoring and Recording
+mss==9.0.1
+pynput==1.7.6
+
+# Progress Tracking
+tqdm==4.66.1

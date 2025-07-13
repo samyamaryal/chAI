@@ -75,7 +75,7 @@ def get_ollama_summary(gaze_freq, max_emotion, number_of_mouse_clicks, number_of
     """
 
     response = ollama.chat(
-    model='llama3.1:latest',
+    model='gemma3:1b"',
     messages=[
         {
             "role": "user",
