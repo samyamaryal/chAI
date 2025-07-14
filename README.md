@@ -137,8 +137,7 @@ Requirements:
 - Python 3.10
 - Conda
 - Webcam access
- 
----
+
  
 ### 2. Run chAI
  
