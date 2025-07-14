@@ -97,31 +97,7 @@ Combined with machine learning, this lets us:
 - Response Time Logging  
  
 ---
- 
-## File Structure
- 
-```
-chAI/
-├── README.md                   # Project overview
-├── requirements.txt            # Python dependencies
-├── main.py                     # Launches the core tracker
-├── src/
-│   ├── input_logger.py         # Mouse + keyboard tracking
-│   ├── emotion_detector.py     # Webcam-based emotion analysis
-│   ├── gaze_tracker.py         # Gaze estimation module
-│   ├── response_timer.py       # Timing metrics per task
-│   └── utils.py                # Shared functions/utilities
-├── models/
-│   └── emotion_model.pth       # Pretrained emotion recognition model
-├── demo/
-│   └── demo_video.mp4          # Sample user interaction video
-├── data/
-│   └── session_logs/           # Logged CSV/JSON results
-└── docs/
-   └── architecture.png        # System architecture diagram
-```
- 
----
+
  
 ## How to Use
 
