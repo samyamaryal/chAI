@@ -136,7 +136,7 @@ chAI/
 
 ```bash
 git clone https://github.com/samyamaryal/chAI
-cd chAI
+cd chAI/CHAI
 ```
 
 - Create a conda environment
@@ -144,10 +144,16 @@ cd chAI
 ```bash
 conda create -n myenv python==3.10
 conda activate myenv
+pip install -r requirements.txt
+```
+
+**NOTE:** If you are running this on the Snapdragon X Elite or another ARM-64 architecture, you will need to perform the following steps (this is due to a package dependency on jax/ jaxlib, which do not currently support ARM64 out of the box):
+```bash
+pip uninstall jax jaxlib
 ```
 
 Requirements:
-- Python 3
+- Python 3.10
 - Conda
 - Webcam access
  
@@ -162,7 +168,7 @@ streamlit run app.py
 How to use:
 - Launch the application
 - Calibrate your camera by looking at the dot and pressing [space]
-- Recod while doing an action on UI (Ground Truth/Developer)
+- Record while doing an action on UI (Ground Truth/Developer)
 - Process Recoding
 - Recod again while doing an action on UI (Tester)
 - Process Recoding
