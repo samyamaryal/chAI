@@ -123,6 +123,11 @@ conda activate myenv
 pip install -r requirements.txt
 ```
 
+if running on macbook do 
+```bash
+pip install -r macbook_requirements.txt
+```
+
 **NOTE:** If you are running this on the Snapdragon X Elite or another ARM-64 architecture, you will need to perform the following steps (this is due to a package dependency on jax/ jaxlib, which do not currently support ARM64 out of the box):
 ```bash
 pip uninstall jax jaxlib
@@ -156,11 +161,11 @@ How to use:
  
 ##  Meet the Team
  
-- Badri
-- Sanyog  
-- Vivek  
-- Samyam  
-- Suvid
+- Badri (www.linkedin.com/in/badri-ramesh-7aa89b179)
+- Sanyog (https://www.linkedin.com/in/sanyogsharma19/)
+- Vivek (https://www.linkedin.com/in/vivekdhir77/)
+- Samyam (https://www.linkedin.com/in/samyam-aryal/)
+- Suvid (http://www.linkedin.com/in/suvid-singh)
  
 ---
  
