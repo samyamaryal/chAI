@@ -112,7 +112,7 @@ Combined with machine learning, this lets us:
 
 ```bash
 git clone https://github.com/samyamaryal/chAI
-cd chAI/CHAI
+cd chAI
 ```
 
 - Create a conda environment
