@@ -1,7 +1,7 @@
 # chAI — Checking Human Actions Intelligently
  
 **chAI** is a clever system that records user interactions in real time to determine whether a user interface is friction-free or not. It improves design feedback by using haptic and behavioral signals in addition to conventional metrics.
-![Landing Page](./Assets/Landing_Page.png)
+![Landing Page](./CHAI/Assets/Landing_Page.png)
 ---
 
 ##  Motivation
@@ -27,7 +27,7 @@ Designers typically rely on:
  
 ## 📌 High-Level Architecture
 
-![High-Level Architecture](./Assets/High_Level_Architecture.png)
+![High-Level Architecture](./CHAI/Assets/High_Level_Architecture.png)
 
 ---
 
@@ -35,7 +35,7 @@ Designers typically rely on:
 
 To ensure accurate screen and webcam recordings are **time-synchronized**:
 
-![Render Synchronization](./Assets/Render_Synchronization.png)
+![Render Synchronization](./CHAI/Assets/Render_Synchronization.png)
 
 ---
 
@@ -43,7 +43,7 @@ To ensure accurate screen and webcam recordings are **time-synchronized**:
 
 Annotating user actions based on mouse events for **task-based analysis**:
 
-![User Actions](./Assets/User_Action.png)
+![User Actions](./CHAI/Assets/User_Action.png)
 
 ---
 
@@ -51,7 +51,7 @@ Annotating user actions based on mouse events for **task-based analysis**:
 
 We perform **gaze detection** from webcam frames to understand where the user is focusing:
 
-![Gaze Detection](./Assets/Gaze_Detection.png)
+![Gaze Detection](./CHAI/Assets/Gaze_Detection.png)
 
 ---
 
@@ -59,7 +59,7 @@ We perform **gaze detection** from webcam frames to understand where the user is
 
 chAI calculates **response times for specific UI tasks** to assess efficiency:
 
-![Response Time](./Assets/Response_Time.png)
+![Response Time](./CHAI/Assets/Response_Time.png)
 
 ---
 
@@ -67,7 +67,7 @@ chAI calculates **response times for specific UI tasks** to assess efficiency:
 
 All insights are aggregated into a clear, actionable report for designers and developers:
 
-![Final Report](./Assets/Final_Report.png)
+![Final Report](./CHAI/Assets/Final_Report.png)
 
 ---
 
