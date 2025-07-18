@@ -1,5 +1,7 @@
 # chAI — Checking Human Actions Intelligently
- 
+
+[![Watch the video](https://img.youtube.com/vi/TsmRTOdu1Wg/maxresdefault.jpg)](https://youtu.be/TsmRTOdu1Wg?si=po0RFcfM92HUliIQ)
+
 **chAI** is a clever system that records user interactions in real time to determine whether a user interface is friction-free or not. It improves design feedback by using haptic and behavioral signals in addition to conventional metrics.
 ![Landing Page](./Assets/Landing_Page.png)
 ---
